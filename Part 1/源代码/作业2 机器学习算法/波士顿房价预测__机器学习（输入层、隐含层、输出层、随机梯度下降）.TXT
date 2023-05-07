@@ -1,0 +1,197 @@
+#include <stdio.h>
+#include <math.h>
+#include <time.h>
+#include <stdlib.h>
+#include <string.h>
+#define Data 380
+#define TestData 126
+#define In 13
+#define Out 1
+#define Neuron 40
+#define Neu 13
+#define TrainC 40000
+#define WAlta 0.1
+#define VAlta 0.15
+#define UAlta 0.2 
+double sw[1005],sv[1005];
+double d_in[Data][In];
+double d_out[Data][Out];
+double t_in[TestData][In];
+double t_out[TestData][Out];
+double pre[TestData][Out];
+double u[Neu][In],v[Neuron][Neu],w[Out][Neuron],du[Neu][In],dv[Neuron][Neu],dw[Out][Neuron];
+double x[Neu],y[Neuron];
+double Maxin[In],Minin[In];
+double Maxout[Out],Minout[Out];
+double OutputData[Out];
+double mse,rmse;
+
+void ReadData(){
+	FILE *fp1,*fp2;
+	fp1 = fopen("in.txt","r");
+	for (int i=0; i<Data; i++)
+		for (int j=0; j<In; j++)
+			if (j!=In-1) fscanf(fp1,"%lf,",&d_in[i][j]);
+			else fscanf(fp1,"%lf",&d_in[i][j]);
+	fclose(fp1);
+	
+	fp2=fopen("out.txt","r");
+	for (int i=0; i<Data; i++)
+		for (int j=0; j<Out; j++)
+			fscanf(fp2,"%lf",&d_out[i][j]);
+	fclose(fp2);
+}
+
+void InitBPNetwork(){
+	srand(time(NULL));
+	for (int i=0; i<In; i++){
+		Minin[i]=Maxin[i]=d_in[0][i];
+		for (int j=0; j<Data; j++){
+			Maxin[i]=fmax(Maxin[i],d_in[j][i]);
+			Minin[i]=fmin(Minin[i],d_in[j][i]);
+		}
+	}
+	for (int i=0; i<Out; i++){
+		Minout[i]=Maxout[i]=d_out[0][i];
+		for (int j=0; j<Data; j++){
+			Maxout[i]=fmax(Maxout[i],d_out[j][i]);
+			Minout[i]=fmin(Minout[i],d_out[j][i]);
+		}
+	}
+	for (int i=0; i<In; i++)
+		for (int j=0; j<Data; j++)
+			d_in[j][i]=(d_in[j][i]-Minin[i])/(Maxin[i]-Minin[i]);
+	for (int i=0; i<Out; i++)
+		for (int j=0; j<Data; j++)
+			d_out[j][i]=(d_out[j][i]-Minout[i])/(Maxout[i]-Minout[i]);
+	for (int i=0; i<Neu; i++)
+		for (int j=0; j<In; j++){
+			u[i][j]=rand()*2.0/RAND_MAX-1;
+			du[i][j]=0;
+		}
+	for (int i=0; i<Neuron; i++)
+		for (int j=0; j<Neu; j++){
+			v[i][j]=rand()*2.0/RAND_MAX-1;
+			dv[i][j]=0;
+		}
+	for (int i=0; i<Out; i++)
+		for (int j=0; j<Neuron; j++){
+			w[i][j]=rand()*2.0/RAND_MAX-1;
+			dw[i][j]=0;
+		}
+}
+
+void Comput(int id){
+	double sum;
+	for (int i=0; i<Neu; i++){
+		sum=0;
+		for (int j=0; j<In; j++)
+			sum+=d_in[id][j]*u[i][j];
+		x[i]=1/(1+exp(-sum));
+	}
+	for (int i=0; i<Neuron; i++){
+		sum=0;
+		for (int j=0; j<Neu; j++)
+			sum+=x[j]*v[i][j];
+		y[i]=1/(1+exp(-sum));
+	}
+	for (int i=0; i<Out; i++){
+		sum=0;
+		for (int j=0; j<Neuron; j++)
+			sum+=y[j]*w[i][j];
+		OutputData[i]=1/(1+exp(-sum));
+	}
+}
+
+void BackUpdate(int id){
+	memset(sw,0,sizeof(sw));
+	memset(sv,0,sizeof(sv));
+	for (int i=0; i<Out; i++)
+		for (int j=0; j<Neuron; j++){
+			dw[i][j]=(d_out[id][i]-OutputData[i])*OutputData[i]*(1-OutputData[i])*y[j];
+			sw[j]+=(d_out[id][i]-OutputData[i])*OutputData[i]*(1-OutputData[i])*w[i][j];
+			w[i][j]+=WAlta*dw[i][j];
+		}
+	for (int i=0; i<Neuron; i++)
+		for (int j=0; j<Neu; j++){
+			dv[i][j]=sw[i]*y[i]*(1-y[i])*x[j];
+			sv[j]+=sw[i]*y[i]*(1-y[i])*v[i][j];
+			v[i][j]+=VAlta*dv[i][j];
+		}
+	for (int i=0; i<Neu; i++)
+		for (int j=0; j<In; j++){
+			du[i][j]=sv[i]*x[i]*(1-x[i])*d_in[id][j];
+			u[i][j]+=UAlta*du[i][j];
+		}
+}
+
+void TrainNetwork(){
+	int count=1;
+	do{
+		mse=0;
+		for (int i=0; i<Data; i++){
+			Comput(i);
+			BackUpdate(i);
+			for (int j=0; j<Out; j++){
+				double tmp1=OutputData[j]*(Maxout[j]-Minout[j])+Minout[j];
+				double tmp2=d_out[i][j]*(Maxout[j]-Minout[j])+Minout[j];
+				mse+=(tmp1-tmp2)*(tmp1-tmp2);
+			}
+		}
+		mse=mse/(Data*Out);
+		if (count%1000==0) printf("累计训练次数为:%d 均方误差为:%lf\n",count,mse);
+		count++;
+	}while (count<=TrainC && mse>=1);
+	printf("训练结束\n");
+}
+
+void TestNetwork(){
+	FILE *fp;
+	fp=fopen("test.txt","r");
+	for (int i=0; i<TestData; i++)
+		for (int j=0; j<In+Out; j++){
+			if (j<In) fscanf(fp,"%lf,",&t_in[i][j]);
+			else fscanf(fp,"%lf",&t_out[i][j-In]);
+		}
+	fclose(fp);
+	double sum;
+	for (int i=0; i<In; i++)
+		for (int j=0; j<TestData; j++)
+			t_in[j][i]=(t_in[j][i]-Minin[i])/(Maxin[i]-Minin[i]);
+	for (int k=0; k<TestData; k++){
+		for (int i=0; i<Neu; i++){
+			sum=0;
+			for (int j=0; j<In; j++)
+				sum+=t_in[k][j]*u[i][j];
+			x[i]=1/(1+exp(-sum));
+		}
+		for (int i=0; i<Neuron; i++){
+			sum=0;
+			for (int j=0; j<Neu; j++)
+				sum+=x[j]*v[i][j];
+			y[i]=1/(1+exp(-sum));
+		}
+		for (int i=0; i<Out; i++){
+			sum=0;
+			for (int j=0; j<Neuron; j++)
+				sum+=y[j]*w[i][j];
+			pre[k][i]=1/(1+exp(-sum));
+		}
+		pre[k][0]=pre[k][0]*(Maxout[0]-Minout[0])+Minout[0];
+		printf("编号:%d  预测值:%.2lf  实际值:%.2lf\n",k+1,pre[k][0],t_out[k][0]);
+	}
+	rmse=0.0;
+	for (int k=0; k<TestData; k++)
+		rmse+=(pre[k][0]-t_out[k][0])*(pre[k][0]-t_out[k][0]);
+	rmse=sqrt(rmse/TestData);
+	printf("表现测试精度的均分根误差为: %.4lf\n",rmse);
+	fclose(fp);
+}
+
+int main(int arcg,char const *argw[]){
+	ReadData();
+	InitBPNetwork();
+	TrainNetwork();
+	TestNetwork();
+	return 0;
+}

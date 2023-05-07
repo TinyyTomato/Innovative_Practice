@@ -1,0 +1,288 @@
+﻿{
+  "quote": [
+    {
+      "title": "Spatially-sensitive affine-invariant image descriptors",
+      "authors": [
+        {
+          "name": "Alexander M. Bronstein",
+          "_id": "548f8fc8dabfaef989f09a19",
+          "org": "BBK Technologies ltd. and Dept. of Electrical Engineering, Tel Aviv University",
+          "gid": "5b86ace1e1cd8e14a30749c5",
+          "orgid": "5f71b28d1c455f439fe3ca38"
+        },
+        {
+          "name": "Michael M. Bronstein",
+          "_id": "53f7ce7ddabfae92b40e594c",
+          "org": "BBK Technologies ltd. and Dept. of Computer Science, Technion - Israel Institute of Technology",
+          "gid": "5b86c54ee1cd8e14a3b541bf",
+          "orgid": "5f71b28d1c455f439fe3ca3c"
+        }
+      ],
+      "n_citation": "29",
+      "raw": "ECCV (2)",
+      "abstract": "Invariant image descriptors play an important role in many computer vision and pattern recognition problems such as image search and retrieval. A dominant paradigm today is that of \"bags of features\", a representation of images as distributions of primitive visual elements. The main disadvantage of this approach is the loss of spatial relations between features, which often carry important information about the image. In this paper, we show how to construct spatially-sensitive image descriptors in which both the features and their relation are affineinvariant. Our construction is based on a vocabulary of pairs of features coupled with a vocabulary of invariant spatial relations between the features. Experimental results show the advantage of our approach in image retrieval applications.",
+      "year": "2010",
+      "url": "http://dx.doi.org/10.1007/978-3-642-15552-9_15"
+    },
+    {
+      "title": "Regularized Partial Matching of Rigid Shapes",
+      "authors": [
+        {
+          "name": "Alexander M. Bronstein",
+          "_id": "548f8fc8dabfaef989f09a19",
+          "org": "Technion --- Israel Institute of Technology, Haifa, Israel 32000",
+          "gid": "5b86a9cae1cd8e14a3f3571e",
+          "orgid": "5f71b28d1c455f439fe3ca3c"
+        },
+        {
+          "name": "Michael M. Bronstein",
+          "_id": "53f7ce7ddabfae92b40e594c",
+          "org": "Technion --- Israel Institute of Technology, Haifa, Israel 32000",
+          "gid": "5b86a9cae1cd8e14a3f3571e",
+          "orgid": "5f71b28d1c455f439fe3ca3c"
+        }
+      ],
+      "n_citation": "26",
+      "raw": "ECCV (2)",
+      "abstract": "Matching of rigid shapes is an important problem in numerous applications across the boundary of computer vision, pattern recognition and computer graphics communities. A particularly challenging setting of this problem is partial matching, where the two shapes are dissimilar in general, but have significant similar parts. In this paper, we show a rigorous approach allowing to find matching parts of rigid shapes with controllable size and regularity. The regularity term we use is similar to the spirit of the Mumford-Shah functional, extended to non-Euclidean spaces. Numerical experiments show that the regularized partial matching produces better results compared to the non-regularized one.",
+      "year": "2008",
+      "url": [
+        "http://dx.doi.org/10.1007/978-3-540-88688-4_11"
+      ]
+    },
+    {
+      "title": "Not only size matters: Regularized partial matching of nonrigid shapes",
+      "authors": [
+        {
+          "org": "Dept. of Comput. Sci., Technion - Israel Inst. of Technol., Haifa|c|",
+          "gid": "5b869402e1cd8e14a3630522",
+          "name": "Alexander M. Bronstein",
+          "_id": "562fb06a45cedb3399784299",
+          "orgid": "5f71b28d1c455f439fe3ca3c",
+          "email": "bron@cs.technion.ac.il"
+        },
+        {
+          "name": "Michael M. Bronstein",
+          "_id": "53f7ce7ddabfae92b40e594c",
+          "org": "Department of Computer Science|Technion - Israel Institute of Technology",
+          "orgid": "5f71b28d1c455f439fe3ca3c",
+          "email": "mbron@cs.technion.ac.il"
+        }
+      ],
+      "n_citation": "21",
+      "raw": "computer vision and pattern recognition",
+      "abstract": "Partial matching is probably one of the most challenging problems in nonrigid shape analysis. The problem consists of matching similar parts of shapes that are dissimilar on the whole and can assume different forms by undergoing nonrigid deformations. Conceptually, two shapes can be considered partially matching if they have significant simi- lar parts, with the simplest definition of significance being the size of the parts. Thus, partial matching can be defined as a multcriterion optimization problem trying to simultane- ously maximize the similarity and the size of these parts. In this paper, we propose a different definition of significance, taking into account the regularity of parts besides their size. The regularity term proposed here is similar to the spirit of the Mumford-Shah functional. Numerical experiments show that the regularized partial matching produces semantically better results compared to the non-regularized one.",
+      "year": "2008",
+      "url": [
+        "http://dx.doi.org/10.1109/CVPRW.2008.4563077",
+        "http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?tp=&arnumber=4563077",
+        "http://doi.ieeecomputersociety.org/10.1109/CVPRW.2008.4563077"
+      ]
+    },
+    {
+      "title": "Manifold Intrinsic Similarity",
+      "authors": [
+        {
+          "name": "Alexander M. Bronstein",
+          "_id": "548f8fc8dabfaef989f09a19",
+          "org": "technion israel institute of technology",
+          "gid": "5b86c1c3e1cd8e14a39c1154",
+          "orgid": "5f71b28d1c455f439fe3ca3c"
+        },
+        {
+          "name": "Michael M. Bronstein",
+          "_id": "53f7ce7ddabfae92b40e594c",
+          "org": "technion israel institute of technology",
+          "gid": "5b86c1c3e1cd8e14a39c1154",
+          "orgid": "5f71b28d1c455f439fe3ca3c"
+        }
+      ],
+      "n_citation": "2",
+      "raw": "Handbook of Mathematical Methods in Imaging",
+      "abstract": null,
+      "year": "2015",
+      "url": [
+        "http://dx.doi.org/10.1007/978-0-387-92920-0_32",
+        "http://dx.doi.org/10.1007/978-1-4939-0790-8_57"
+      ]
+    },
+    {
+      "title": "Shape Recognition with Spectral Distances",
+      "authors": [
+        {
+          "name": "Michael M Bronstein",
+          "_id": "53f7ce7ddabfae92b40e594c",
+          "org": "Fac. of Inf., Univ. delta Svizzera Italiana, Lugano, Switzerland|c|",
+          "gid": "5b869855e1cd8e14a37f711c",
+          "orgid": "5f71b2811c455f439fe3c5b7"
+        },
+        {
+          "name": "Alexander M Bronstein",
+          "_id": "5631b47345cedb3399eecd69",
+          "org": "Tel-Aviv University, Tel-Aviv",
+          "orgid": "5f71b28d1c455f439fe3ca38"
+        }
+      ],
+      "n_citation": "155",
+      "raw": "Pattern Analysis and Machine Intelligence, IEEE Transactions",
+      "abstract": "Recent works have shown the use of diffusion geometry for various pattern recognition applications, including nonrigid shape analysis. In this paper, we introduce spectral shape distance as a general framework for distribution-based shape similarity and show that two recent methods for shape similarity due to Rustamov and Mahmoudi and Sapiro are particular cases thereof.",
+      "year": "2010",
+      "url": [
+        "http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?tp=&arnumber=5661779",
+        "http://dx.doi.org/10.1109/TPAMI.2010.210",
+        "http://doi.ieeecomputersociety.org/10.1109/TPAMI.2010.210",
+        "http://www.ncbi.nlm.nih.gov/pubmed/21135442?report=xml&format=text",
+        "https://dl.acm.org/citation.cfm?id=1963100"
+      ]
+    },
+    {
+      "title": "Not only size matters: Regularized partial matching of nonrigid shapes",
+      "authors": [
+        {
+          "org": "Dept. of Comput. Sci., Technion - Israel Inst. of Technol., Haifa|c|",
+          "gid": "5b869402e1cd8e14a3630522",
+          "name": "Alexander M. Bronstein",
+          "_id": "562fb06a45cedb3399784299",
+          "orgid": "5f71b28d1c455f439fe3ca3c",
+          "email": "bron@cs.technion.ac.il"
+        },
+        {
+          "name": "Michael M. Bronstein",
+          "_id": "53f7ce7ddabfae92b40e594c",
+          "org": "Department of Computer Science|Technion - Israel Institute of Technology",
+          "orgid": "5f71b28d1c455f439fe3ca3c",
+          "email": "mbron@cs.technion.ac.il"
+        }
+      ],
+      "n_citation": "21",
+      "raw": "computer vision and pattern recognition",
+      "abstract": "Partial matching is probably one of the most challenging problems in nonrigid shape analysis. The problem consists of matching similar parts of shapes that are dissimilar on the whole and can assume different forms by undergoing nonrigid deformations. Conceptually, two shapes can be considered partially matching if they have significant simi- lar parts, with the simplest definition of significance being the size of the parts. Thus, partial matching can be defined as a multcriterion optimization problem trying to simultane- ously maximize the similarity and the size of these parts. In this paper, we propose a different definition of significance, taking into account the regularity of parts besides their size. The regularity term proposed here is similar to the spirit of the Mumford-Shah functional. Numerical experiments show that the regularized partial matching produces semantically better results compared to the non-regularized one.",
+      "year": "2008",
+      "url": [
+        "http://dx.doi.org/10.1109/CVPRW.2008.4563077",
+        "http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?tp=&arnumber=4563077",
+        "http://doi.ieeecomputersociety.org/10.1109/CVPRW.2008.4563077"
+      ]
+    },
+    {
+      "title": "Spatially-sensitive affine-invariant image descriptors",
+      "authors": [
+        {
+          "name": "Alexander M. Bronstein",
+          "_id": "548f8fc8dabfaef989f09a19",
+          "org": "BBK Technologies ltd. and Dept. of Electrical Engineering, Tel Aviv University",
+          "gid": "5b86ace1e1cd8e14a30749c5",
+          "orgid": "5f71b28d1c455f439fe3ca38"
+        },
+        {
+          "name": "Michael M. Bronstein",
+          "_id": "53f7ce7ddabfae92b40e594c",
+          "org": "BBK Technologies ltd. and Dept. of Computer Science, Technion - Israel Institute of Technology",
+          "gid": "5b86c54ee1cd8e14a3b541bf",
+          "orgid": "5f71b28d1c455f439fe3ca3c"
+        }
+      ],
+      "n_citation": "29",
+      "raw": "ECCV (2)",
+      "abstract": "Invariant image descriptors play an important role in many computer vision and pattern recognition problems such as image search and retrieval. A dominant paradigm today is that of \"bags of features\", a representation of images as distributions of primitive visual elements. The main disadvantage of this approach is the loss of spatial relations between features, which often carry important information about the image. In this paper, we show how to construct spatially-sensitive image descriptors in which both the features and their relation are affineinvariant. Our construction is based on a vocabulary of pairs of features coupled with a vocabulary of invariant spatial relations between the features. Experimental results show the advantage of our approach in image retrieval applications.",
+      "year": "2010",
+      "url": [
+        "http://dx.doi.org/10.1007/978-3-642-15552-9_15"
+      ]
+    },
+    {
+      "title": "Regularized Partial Matching of Rigid Shapes",
+      "authors": [
+        {
+          "name": "Alexander M. Bronstein",
+          "_id": "548f8fc8dabfaef989f09a19",
+          "org": "Technion --- Israel Institute of Technology, Haifa, Israel 32000",
+          "gid": "5b86a9cae1cd8e14a3f3571e",
+          "orgid": "5f71b28d1c455f439fe3ca3c"
+        },
+        {
+          "name": "Michael M. Bronstein",
+          "_id": "53f7ce7ddabfae92b40e594c",
+          "org": "Technion --- Israel Institute of Technology, Haifa, Israel 32000",
+          "gid": "5b86a9cae1cd8e14a3f3571e",
+          "orgid": "5f71b28d1c455f439fe3ca3c"
+        }
+      ],
+      "n_citation": "26",
+      "raw": "ECCV (2)",
+      "abstract": "Matching of rigid shapes is an important problem in numerous applications across the boundary of computer vision, pattern recognition and computer graphics communities. A particularly challenging setting of this problem is partial matching, where the two shapes are dissimilar in general, but have significant similar parts. In this paper, we show a rigorous approach allowing to find matching parts of rigid shapes with controllable size and regularity. The regularity term we use is similar to the spirit of the Mumford-Shah functional, extended to non-Euclidean spaces. Numerical experiments show that the regularized partial matching produces better results compared to the non-regularized one.",
+      "year": "2008",
+      "url": [
+        "http://dx.doi.org/10.1007/978-3-540-88688-4_11"
+      ]
+    },
+    {
+      "title": "Blind Deconvolution Using the Relative Newton Method",
+      "authors": [
+        {
+          "org": "Department of Electrical Engineering, Technion 鈥?Israel Institute of Technology, 32000 Haifa, Israel",
+          "gid": "5b86a6f0e1cd8e14a3e09103",
+          "name": "Alexander M. Bronstein",
+          "_id": "548f8fc8dabfaef989f09a19",
+          "orgid": "5f71b28d1c455f439fe3ca3c",
+          "email": "alexbron@ieee.org"
+        },
+        {
+          "name": "Michael M. Bronstein",
+          "_id": "53f7ce7ddabfae92b40e594c",
+          "org": "Department of Electrical Engineering, Technion 鈥?Israel Institute of Technology, 32000 Haifa, Israel",
+          "gid": "5b86a6f0e1cd8e14a3e09103",
+          "orgid": "5f71b28d1c455f439fe3ca3c"
+        },
+        {
+          "org": "Department of Electrical Engineering, Technion 鈥?Israel Institute of Technology, 32000 Haifa, Israel",
+          "gid": "5b86a6f0e1cd8e14a3e09103",
+          "name": "Michael Zibulevsky",
+          "_id": "53f47a6edabfaeb22f56d969",
+          "orgid": "5f71b28d1c455f439fe3ca3c",
+          "email": "mzib@ee.technion.ac.il"
+        }
+      ],
+      "n_citation": "2",
+      "raw": "ICA",
+      "abstract": "We propose a relative optimization framework for quasi maximum likelihood blind deconvolution and the relative Newton method as its particular instance. Special Hessian structure allows its fast approximate construction and inversion with complexity comparable to that of gradient methods. The use of rational IIR restoration kernels provides a richer family of filters than the tradi- tionally used FIR kernels. Smoothed absolute value and the smoothed deadzone functions allow accurate and robust deconvolution of super- and sub-Gaussian sources, respectively. Simulation results demonstrate the efficiency of the pro- posed methods.",
+      "year": "2004",
+      "url": [
+        "http://dx.doi.org/10.1007/978-3-540-30110-3_71"
+      ]
+    },
+    {
+      "title": "On separation of semitransparent dynamic images from static background",
+      "authors": [
+        {
+          "name": "Alexander M. Bronstein",
+          "_id": "548f8fc8dabfaef989f09a19",
+          "org": "Department of Computer Science, Technion 鈥?Israel Institute of Technology, Haifa, Israel",
+          "gid": "5b86b270e1cd8e14a32d45b5",
+          "orgid": "5f71b28d1c455f439fe3ca3c"
+        },
+        {
+          "name": "Michael M. Bronstein",
+          "_id": "53f7ce7ddabfae92b40e594c",
+          "org": "Department of Computer Science, Technion 鈥?Israel Institute of Technology, Haifa, Israel",
+          "gid": "5b86b270e1cd8e14a32d45b5",
+          "orgid": "5f71b28d1c455f439fe3ca3c"
+        },
+        {
+          "name": "Michael Zibulevsky",
+          "_id": "53f47a6edabfaeb22f56d969",
+          "org": "Department of Computer Science, Technion 鈥?Israel Institute of Technology, Haifa, Israel",
+          "gid": "5b86b270e1cd8e14a32d45b5",
+          "orgid": "5f71b28d1c455f439fe3ca3c"
+        }
+      ],
+      "n_citation": "4",
+      "raw": "ICA",
+      "abstract": "Presented here is the problem of recovering a dynamic image superimposed on a static background. Such a problem is ill-posed and may arise e.g. in imaging through semireflective media, in separation of an illumination image from a reflectance image, in imaging with diffraction phenomena, etc. In this work we study regularization of this problem in spirit of Total Variation and general sparsifying transformations.",
+      "year": "2006",
+      "url": [
+        "http://dx.doi.org/10.1007/11679363_116"
+      ]
+    }
+  ]
+}

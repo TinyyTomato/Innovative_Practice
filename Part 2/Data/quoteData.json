@@ -1,0 +1,46 @@
+﻿{
+  "quote": [
+    {
+      "title": "Dynamic Graph CNN for Learning on Point Clouds.",
+      "authors": [
+        {
+          "orgs": ["MIT, Cambridge, MA 02139 USA"],
+          "sid": "2784418645",
+          "org": "Massachusetts Institute of Technology",
+          "name": "Yue Wang",
+          "_id": "542bc9f1dabfae2b4e19fd74",
+          "orgid": "5f71b2831c455f439fe3c633",
+          "email": "yuewang@csail.mit.edu"
+        },
+        {"orgs": ["MIT, Cambridge, MA 02139 USA"],
+          "sid": "2785186749",
+          "org": "Massachusetts Institute of Technology",
+          "name": "Yongbin Sun",
+          "_id": "560dea5a45cedb33976242ba",
+          "orgid": "5f71b2831c455f439fe3c633"},
+        {"orgs": ["Univ Calif Berkeley, ICSI, Berkeley, CA USA", "Chinese Univ Hong Kong, Hong Kong, Peoples R China"],
+          "sid": "2947936273",
+          "org": "UC Berkeley/ICSI",
+          "name": "Ziwei Liu",
+          "_id": "560c619045ce1e59606ce213",
+          "orgid": "5f71b2841c455f439fe3c6b7"},
+        {"orgs": ["MIT, Cambridge, MA 02139 USA"],
+          "sid": "2170183435",
+          "org": "Massachusetts Institute of Technology",
+          "name": "Sanjay E. Sarma",
+          "_id": "53f42d48dabfaedce54c3d30",
+          "orgid": "5f71b2831c455f439fe3c633"},
+        {"orgs": ["Imperial Coll London, USI Lugano, London, England"],
+          "name": "Michael M. Bronstein",
+          "_id": "53f7ce7ddabfae92b40e594c",
+          "org": "Imperial College London/USI Lugano",
+          "orgid": "5f71b2871c455f439fe3c7fe"},
+        {"orgs": ["MIT, Cambridge, MA 02139 USA"],
+          "sid": "2129693131",
+          "org": "Massachusetts Institute of Technology",
+          "name": "Justin M. Solomon",
+          "_id": "53f36d1cdabfae4b349b3976",
+          "orgid": "5f71b2831c455f439fe3c633"}]
+    }
+  ]
+}

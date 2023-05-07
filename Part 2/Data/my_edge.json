@@ -1,0 +1,2174 @@
+[
+    {
+        "source": "Stephen M Smith",
+        "target": "Ben Glocker"
+    },
+    {
+        "source": "Stephen M Smith",
+        "target": "Wiro J. Niessen"
+    },
+    {
+        "source": "Stephen M Smith",
+        "target": "Clare Mackay"
+    },
+    {
+        "source": "Stephen M Smith",
+        "target": "Daniel Rueckert"
+    },
+    {
+        "source": "Stephen M Smith",
+        "target": "Derek L G Hill"
+    },
+    {
+        "source": "Stephen M Smith",
+        "target": "Saad Jbabdi"
+    },
+    {
+        "source": "Stephen M Smith",
+        "target": "Heidi Johansen-Berg"
+    },
+    {
+        "source": "Stephen M Smith",
+        "target": "David C. Van Essen"
+    },
+    {
+        "source": "Stephen M Smith",
+        "target": "Paul Thompson"
+    },
+    {
+        "source": "Stephen M Smith",
+        "target": "Joseph Hajnal"
+    },
+    {
+        "source": "Stephen M Smith",
+        "target": "Kamil Ugurbil"
+    },
+    {
+        "source": "Stephen M Smith",
+        "target": "Essa Yacoub"
+    },
+    {
+        "source": "Stephen M Smith",
+        "target": "David C. Glahn"
+    },
+    {
+        "source": "Stephen M Smith",
+        "target": "David Kennedy"
+    },
+    {
+        "source": "Stephen M Smith",
+        "target": "Gael Varoquaux"
+    },
+    {
+        "source": "Stephen M Smith",
+        "target": "Julia A Schnabel"
+    },
+    {
+        "source": "Stephen M Smith",
+        "target": "Peter T. Fox"
+    },
+    {
+        "source": "Stephen M Smith",
+        "target": "Thomas E. Nichols"
+    },
+    {
+        "source": "Stephen M Smith",
+        "target": "Jessica A. Turner"
+    },
+    {
+        "source": "Stephen M Smith",
+        "target": "Andrea Vedaldi"
+    },
+    {
+        "source": "Joyce A. Mitchell",
+        "target": "F Sanz"
+    },
+    {
+        "source": "Joyce A. Mitchell",
+        "target": "Victor Maojo"
+    },
+    {
+        "source": "Joyce A. Mitchell",
+        "target": "Olivier Bodenreider"
+    },
+    {
+        "source": "Joyce A. Mitchell",
+        "target": "Casimir Kulikowski"
+    },
+    {
+        "source": "Joyce A. Mitchell",
+        "target": "Luciano Milanesi"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "david j dewitt"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Akhil Kumar"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Peter Bailis"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Anastassia Ailamaki"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Eduardo B. Fernandez"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Alon Y. Halevy"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Michael J. Carey"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Stefano Ceri"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Laura M. Haas"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Rakesh Agrawal"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Tim Kraska"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Jimeng Sun"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Juliana Freire"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Jeffrey D. Ullman"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "David Maier"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Michael J. Franklin"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Yannis E. Ioannidis"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Timos K. Sellis"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Jim Gray"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Moshe Y. Vardi"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Gerhard Weikum"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Nicholas J. Belkin"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Samuel Madden"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Philip A. Bernstein"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Margo Seltzer"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "H. V. Jagadish"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Hector Garcia-Molina"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Avi Silberschatz"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Pradeep K. Dubey"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Joseph M. Hellerstein"
+    },
+    {
+        "source": "Michael Stonebraker",
+        "target": "Raghu Ramakrishnan"
+    },
+    {
+        "source": "Mark A. Musen",
+        "target": "Deborah L. McGuinness"
+    },
+    {
+        "source": "Mark A. Musen",
+        "target": "David L. Buckeridge"
+    },
+    {
+        "source": "Mark A. Musen",
+        "target": "Hongfang Liu"
+    },
+    {
+        "source": "Mark A. Musen",
+        "target": "James F. Brinkley"
+    },
+    {
+        "source": "Mark A. Musen",
+        "target": "Michel Dumontier"
+    },
+    {
+        "source": "Mark A. Musen",
+        "target": "Mark D Wilkinson"
+    },
+    {
+        "source": "Mark A. Musen",
+        "target": "Robert Stevens"
+    },
+    {
+        "source": "Mark A. Musen",
+        "target": "Marin Litoiu"
+    },
+    {
+        "source": "Mark A. Musen",
+        "target": "Casimir Kulikowski"
+    },
+    {
+        "source": "Mark A. Musen",
+        "target": "Kimberly Van Auken"
+    },
+    {
+        "source": "Mark A. Musen",
+        "target": "Kei-Hoi Cheung"
+    },
+    {
+        "source": "Mark A. Musen",
+        "target": "Rudi Studer"
+    },
+    {
+        "source": "Mark A. Musen",
+        "target": "Frank van Harmelen"
+    },
+    {
+        "source": "Mark A. Musen",
+        "target": "Yolanda Gil"
+    },
+    {
+        "source": "Mark A. Musen",
+        "target": "Enrico Franconi"
+    },
+    {
+        "source": "Mark A. Musen",
+        "target": "Chitta Baral"
+    },
+    {
+        "source": "Norman W. Paton",
+        "target": "Georg Gottlob"
+    },
+    {
+        "source": "Norman W. Paton",
+        "target": "Paolo Missier"
+    },
+    {
+        "source": "Norman W. Paton",
+        "target": "Tom Rodden"
+    },
+    {
+        "source": "Norman W. Paton",
+        "target": "Geoffrey Fox"
+    },
+    {
+        "source": "Norman W. Paton",
+        "target": "David De Roure"
+    },
+    {
+        "source": "Norman W. Paton",
+        "target": "Terri K. Attwood"
+    },
+    {
+        "source": "Norman W. Paton",
+        "target": "Reagan Moore"
+    },
+    {
+        "source": "Norman W. Paton",
+        "target": "Ewa Deelman"
+    },
+    {
+        "source": "Norman W. Paton",
+        "target": "Manolis Koubarakis"
+    },
+    {
+        "source": "Norman W. Paton",
+        "target": "Henning Hermjakob"
+    },
+    {
+        "source": "Norman W. Paton",
+        "target": "Carole Goble"
+    },
+    {
+        "source": "Norman W. Paton",
+        "target": "Robert Stevens"
+    },
+    {
+        "source": "Norman W. Paton",
+        "target": "M Nedim Alpdemir"
+    },
+    {
+        "source": "Norman W. Paton",
+        "target": "Enrico Franconi"
+    },
+    {
+        "source": "Norman W. Paton",
+        "target": "Michael Luck"
+    },
+    {
+        "source": "Norman W. Paton",
+        "target": "dietrich rebholzschuhmann"
+    },
+    {
+        "source": "Norman W. Paton",
+        "target": "Christine A. Orengo"
+    },
+    {
+        "source": "Norman W. Paton",
+        "target": "\u812bscar Corcho"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Craig A. Knoblock"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Jim Gray"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Diego Calvanese"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "david j dewitt"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Christos Faloutsos"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Gerhard Weikum"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "W. Bruce Croft"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Anastassia Ailamaki"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Samuel Madden"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Philip A. Bernstein"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Erwin Laure"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Raymond T. Ngt"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Alon Y. Halevy"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Michael J. Carey"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Stefano Ceri"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Laura M. Haas"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Rakesh Agrawal"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Jennifer Widom"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Manolis Koubarakis"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Serge Abiteboul"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Ian Horrocks"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "H. V. Jagadish"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Jeffrey D. Ullman"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Hector Garcia-Molina"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "David Maier"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Avi Silberschatz"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Martin L. Kersten"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Michael J. Franklin"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Joseph M. Hellerstein"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Raghu Ramakrishnan"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Miron Livny"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Michael J. Pazzani"
+    },
+    {
+        "source": "Yannis E. Ioannidis",
+        "target": "Timos K. Sellis"
+    },
+    {
+        "source": "Theo Ungerer",
+        "target": "Mateo Valero"
+    },
+    {
+        "source": "Theo Ungerer",
+        "target": "Rosa M. Badia"
+    },
+    {
+        "source": "Theo Ungerer",
+        "target": "Fran\u83bdois Bodin"
+    },
+    {
+        "source": "Theo Ungerer",
+        "target": "Kurt Geihs"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Craig A. Knoblock"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "david j dewitt"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Anastassia Ailamaki"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Alon Y. Halevy"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Michael J. Carey"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Stefano Ceri"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Laura M. Haas"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Rakesh Agrawal"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Jennifer Widom"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Juliana Freire"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Jeffrey D. Ullman"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "David Maier"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Michael J. Franklin"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Philipp Cimiano"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Djoerd Hiemstra"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Norbert Fuhr"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Timos K. Sellis"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Jim Gray"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "W. Bruce Croft"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Lise Getoor"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Samuel Madden"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Philip A. Bernstein"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Oren Etzioni"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Gustavo Alonso"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Manolis Koubarakis"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Serge Abiteboul"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Hector Garcia-Molina"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Avi Silberschatz"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Martin L. Kersten"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Joseph M. Hellerstein"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Raghu Ramakrishnan"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Amit P. Sheth"
+    },
+    {
+        "source": "Gerhard Weikum",
+        "target": "Michael J. Pazzani"
+    },
+    {
+        "source": "Jon Doyle",
+        "target": "Thomas G. Dietterich"
+    },
+    {
+        "source": "Jon Doyle",
+        "target": "Carla P. Gomes"
+    },
+    {
+        "source": "Jon Doyle",
+        "target": "Mark H. Burstein"
+    },
+    {
+        "source": "Jon Doyle",
+        "target": "Eric Horvitz"
+    },
+    {
+        "source": "Jon Doyle",
+        "target": "Toby Walsh"
+    },
+    {
+        "source": "Jon Doyle",
+        "target": "Munindar P. Singh"
+    },
+    {
+        "source": "Jon Doyle",
+        "target": "Karen Zita Haigh"
+    },
+    {
+        "source": "Jon Doyle",
+        "target": "Rudi Studer"
+    },
+    {
+        "source": "Jon Doyle",
+        "target": "Bamshad Mobasher"
+    },
+    {
+        "source": "Jon Doyle",
+        "target": "Michael P. Wellman"
+    },
+    {
+        "source": "Jon Doyle",
+        "target": "M. Brian Blake"
+    },
+    {
+        "source": "Jon Doyle",
+        "target": "Simon Parsons"
+    },
+    {
+        "source": "Jon Doyle",
+        "target": "Chitta Baral"
+    },
+    {
+        "source": "Jon Doyle",
+        "target": "David V. Pynadath"
+    },
+    {
+        "source": "Jon Doyle",
+        "target": "Thomas Roth-berghofer"
+    },
+    {
+        "source": "Jon Doyle",
+        "target": "Gal A. Kaminka"
+    },
+    {
+        "source": "Jon Doyle",
+        "target": "Dietmar Jannach"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "J\u679arg Hoffmann"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Michael zur Muehlen"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Jorge Munoz-Gama"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Anne Rozinat"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Wil M. P. van der Aalst"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Alessandro Sperduti"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Boudewijn F. van Dongen"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Massimiliano de Leoni"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Christian W. G\u7709nther"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Diogo R. Ferreira"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Akhil Kumar"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Fabrizio Maria Maggi"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Michael Westergaard"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Munindar P. Singh"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Eric Verbeek"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Schahram Dustdar"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Moe Thandar Wynn"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Simone Paolo Ponzetto"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Josep Carmona"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Marco Montali"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Jan Vanthienen"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Arthur H. M. ter Hofstede"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Gregor Engels"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Luciano Baresi"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "R. S. Mans"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Dirk Fahland"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Ernesto Damiani"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Christof Weinhardt"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "R. P. Jagadeesh Chandra Bose"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Joos C. A. M. Buijs"
+    },
+    {
+        "source": "Jan Mendling",
+        "target": "Marcello La Rosa"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Peter J. Stuckey"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Craig A. Knoblock"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Georg Gottlob"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Joseph Y. Halpern"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Moshe Tennenholtz"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Daphne Koller"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "C\u8305sar Herv\u8c29s-Mart\u94c6nez"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Luc Moreau"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Eric Horvitz"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "L. Darrell Whitley"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Oren Etzioni"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Adele E. Howe"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Steffen Staab"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Michael P. Wellman"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Pedro Domingos"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Nicholas R. Jennings"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Marilyn A Walker"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Alon Y. Halevy"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Dan Roth"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Thomas G. Dietterich"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Henry A. Kautz"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Dimitris Achlioptas"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Regina Barzilay"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Ian Horrocks"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Rocco A. Servedio"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Vitaly Lagoon"
+    },
+    {
+        "source": "Daniel S. Weld",
+        "target": "Philipp Cimiano"
+    },
+    {
+        "source": "Sergios Theodoridis",
+        "target": "C. Kotropoulos"
+    },
+    {
+        "source": "Sergios Theodoridis",
+        "target": "Ioannis Pitas"
+    },
+    {
+        "source": "Sergios Theodoridis",
+        "target": "Klaus-Robert M\u7709ller"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Abdul Sattar"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Peter J. Stuckey"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Georg Gottlob"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Moshe Y. Vardi"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Deborah L. McGuinness"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Ian P. Gent"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Wil M. P. van der Aalst"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Marco Cadoli"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Balaraman Ravindran"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Fabrizio Maria Maggi"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Vincent Conitzer"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Stefan Szeider"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Michael Zakharyaschev"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Nicholas R. Jennings"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "umberto straccia"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Bonnie J. Dorr"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Stefano Ceri"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Shimon Whiteson"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Christopher Jefferson"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Jes\u7164s M de la Cruz"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Manolis Koubarakis"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Michael Kifer"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Thomas Eiter"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Ian Miguel"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Serge Abiteboul"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Regina Barzilay"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Carmel Domshlak"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Ian Horrocks"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Saif M. Mohammad"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Enrico Franconi"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Milind Tambe"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "David C. Parkes"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Dragomir Radev"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "A. Rogers"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Marco Montali"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Enrico H. Gerding"
+    },
+    {
+        "source": "Diego Calvanese",
+        "target": "Diederik M. Roijers"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Matthias Samwald"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Olivier Bodenreider"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "M. Scott Marshall"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Paul E. Rybski"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Mark H. Burstein"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Ashwin Ram"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Lynn M. Schriml"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "K. Sycara"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Timothy W. Finin"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Michel Dumontier"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Carole Goble"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Mark D Wilkinson"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Bernhard Nebel"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Weng-Keen Wong"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Eric Horvitz"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "David De Roure"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Michael I. Jordan"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Victor Lesser"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Frank van Harmelen"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Thomas G. Dietterich"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Diana F. Spears"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Ian Horrocks"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Fiora Pirri"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Jun Zhao"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Geert-Jan M. Kruijff"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Enrico Franconi"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Milind Tambe"
+    },
+    {
+        "source": "Deborah L. McGuinness",
+        "target": "Chitta Baral"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Rick L. Stevens"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Mark Hereld"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Robert W. Wisniewski"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Manish Parashar"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Marian Bubak"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Mitsuhisa Sato"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Gabrielle Allen"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "William D. Gropp"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "John Shalf"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Franz Franchetti"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Geoffrey Fox"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Daniel A. Reed"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Peter M. A. Sloot"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "David Abramson"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Michael E. Papka"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Bronis R. de Supinski"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "\"Bader"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Mateo Valero"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Rajeev Thakur"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Ian Foster"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Rosa M. Badia"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "David E. Keyes"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Ewa Deelman"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "\"Vetter"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Gael Varoquaux"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Alok N. Choudhary"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Jesus Labarta"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Christos Faloutsos"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Theresa L. Windus"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Wolfgang E. Nagel"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Francine Berman"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Carl Kesselman"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Pavan Balaji"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Andrew A. Chien"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Henri E. Bal"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Joseph E. Gonzalez"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Omer F. Rana"
+    },
+    {
+        "source": "Jack Dongarra",
+        "target": "Joel Saltz"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Rick L. Stevens"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Joseph A. Insley"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Conrad Steenberg"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Luc Moreau"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Geoffrey Fox"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Anastassia Ailamaki"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Nancy Wilkins-Diehr"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Daniel A. Reed"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Reagan Moore"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Ian Foster"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Julian J. Bunn"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Harvey B. Newman"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Francine Berman"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Ewa Deelman"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Carl Kesselman"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Michael J. Carey"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Laura M. Haas"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Rakesh Agrawal"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Michael A. McRobbie"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Michael E. Papka"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Carole Goble"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Yolanda Gil"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Michael J. Franklin"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Raghu Ramakrishnan"
+    },
+    {
+        "source": "Miron Livny",
+        "target": "Sebastien Goasguen"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Peter J. Stuckey"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Lane A. Hemaspaandra"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Brahim Hnich"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Moshe Tennenholtz"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Nevin .L Zhang"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Francky Catthoor"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Nathan S. Netanyahu"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Daniel M. Reeves"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Daphne Koller"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Holger H. Hoos"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Noam Nisan"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Karl Tuyls"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Stefan Szeider"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Michael P. Wellman"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Piotr Faliszewski"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Michael Fink"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Allan Borodin"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Shimon Whiteson"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Barbara M. Smith"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Minh Dao-Tran"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Thomas Eiter"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Carmel Domshlak"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Kevin M. Lochner"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Yevgeniy Vorobeychik"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Thomas Krennwallner"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "M L Ginsberg"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Ariel Felner"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Ran El-Yaniv"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "David Poole"
+    },
+    {
+        "source": "Maurice Bruynooghe",
+        "target": "Diederik M. Roijers"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Shimon Whiteson"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Henning S. Mortveit"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Barbara M. Smith"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Andrew Moore"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Georg Gottlob"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Thomas G. Dietterich"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "J\u679arg Hoffmann"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Ian P. Gent"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Sebastian Thrun"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Lane A. Hemaspaandra"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Sarvapali D. Ramchurn"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Henry A. Kautz"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Joseph Y. Halpern"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Brahim Hnich"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Moshe Tennenholtz"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Simone Paolo Ponzetto"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Carmel Domshlak"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "David W. Aha"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Ian Horrocks"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Nevin .L Zhang"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Kevin M. Lochner"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Nathan S. Netanyahu"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Daphne Koller"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Daniel M. Reeves"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Holger H. Hoos"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Carlos Guestrin"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Yevgeniy Vorobeychik"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Ariel Felner"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Noam Nisan"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Bernhard Nebel"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Leslie Pack Kaelbling"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Jeffrey S. Rosenschein"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Milind Tambe"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Daniele Magazzeni"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Wolfram Burgard"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Peter D. Turney"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Michael P. Wellman"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Piotr Faliszewski"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Ran El-Yaniv"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Sarit Kraus"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Nicholas R. Jennings"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "umberto straccia"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Patrick Pantel"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "David Poole"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Paul Beame"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Allan Borodin"
+    },
+    {
+        "source": "M L Ginsberg",
+        "target": "Diederik M. Roijers"
+    },
+    {
+        "source": "Andreas Bender",
+        "target": "Artem Cherkasov"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Peter J. Stuckey"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Ian P. Gent"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Michael J. Witbrock"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Rolf Niedermeier"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Brahim Hnich"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Holger H. Hoos"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Vincent Conitzer"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Eric Horvitz"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Kevin M. Carter"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "David L. Buckeridge"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Jeffrey S. Rosenschein"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Jeffrey O. Kephart"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Karen Zita Haigh"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Piotr Faliszewski"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Peter Stone"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Michael Fink"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Dan Roth"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Barbara M. Smith"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Stuart J. Russell"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Thomas Eiter"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Thomas G. Dietterich"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Ian Miguel"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Carla P. Gomes"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Carmel Domshlak"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Thomas Krennwallner"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Tran Cao Son"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Daniele Magazzeni"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Manuela M. Veloso"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Edith Elkind"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "C. Lee Giles"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Sven Koenig"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "M. Brian Blake"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Simon Parsons"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Chitta Baral"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Michael L. Littman"
+    },
+    {
+        "source": "Toby Walsh",
+        "target": "Joao Marques-Silva"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Gregory R. Ganger"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Jeffrey S. Dean"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Peter Bailis"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Alexandros G. Dimakis"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Ameet Talwalkar"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Phillip B. Gibbons"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Lise Getoor"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Samuel Madden"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Matei Zaharia"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Michael I. Jordan"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "R\u8305 Christopher"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Maarten van Steen"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Alon Y. Halevy"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Laura M. Haas"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Dawn Song"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Jennifer Widom"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Tim Kraska"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Joseph E. Gonzalez"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Pradeep K. Dubey"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Martin L. Kersten"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Michael J. Franklin"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Bo Xing"
+    },
+    {
+        "source": "Gustavo Alonso",
+        "target": "Derek Gordon Murray"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "Frank Wolter"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "Shimon Whiteson"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "Jes\u7164s M de la Cruz"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "Georg Gottlob"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "Grigoris Antoniou"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "Michael Kifer"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "Thomas Eiter"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "Maarten de Rijke"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "Carmel Domshlak"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "Ian Horrocks"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "Carole Goble"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "Bernhard Nebel"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "Milind Tambe"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "Michael Zakharyaschev"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "David C. Parkes"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "A. Rogers"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "Nicholas R. Jennings"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "Enrico H. Gerding"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "umberto straccia"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "Frank van Harmelen"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "Diederik M. Roijers"
+    },
+    {
+        "source": "Enrico Franconi",
+        "target": "Alon Y. Halevy"
+    },
+    {
+        "source": "Nicholas Ayache",
+        "target": "Ben Glocker"
+    },
+    {
+        "source": "Nicholas Ayache",
+        "target": "Brian B. Avants"
+    },
+    {
+        "source": "Nicholas Ayache",
+        "target": "Max A Viergever"
+    },
+    {
+        "source": "Nicholas Ayache",
+        "target": "Nikos Paragios"
+    },
+    {
+        "source": "Nicholas Ayache",
+        "target": "Derek L G Hill"
+    },
+    {
+        "source": "Nicholas Ayache",
+        "target": "Doina Precup"
+    },
+    {
+        "source": "Nicholas Ayache",
+        "target": "Maria A. Zuluaga"
+    },
+    {
+        "source": "Nicholas Ayache",
+        "target": "G\u8c29bor Sz\u8305kely"
+    },
+    {
+        "source": "Nicholas Ayache",
+        "target": "Cristian Lorenz"
+    },
+    {
+        "source": "Nicholas Ayache",
+        "target": "Marius Staring"
+    },
+    {
+        "source": "Nicholas Ayache",
+        "target": "Mattias P. Heinrich"
+    },
+    {
+        "source": "Nicholas Ayache",
+        "target": "D Louis Collins"
+    },
+    {
+        "source": "Nicholas Ayache",
+        "target": "Joseph M. Reinhardt"
+    },
+    {
+        "source": "Nicholas Ayache",
+        "target": "James C. Gee"
+    },
+    {
+        "source": "Nicholas Ayache",
+        "target": "Jason J. Corso"
+    },
+    {
+        "source": "Nicholas Ayache",
+        "target": "Bjoern H Menze"
+    },
+    {
+        "source": "Nicholas Ayache",
+        "target": "Jayashree Kalpathy-Cramer"
+    },
+    {
+        "source": "Nicholas Ayache",
+        "target": "Xavier Pennec"
+    }
+]

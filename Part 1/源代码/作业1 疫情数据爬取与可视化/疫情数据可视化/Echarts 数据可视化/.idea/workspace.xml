@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75e911d4-412a-4af4-8e9f-a6d3d84a2175" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qWKEvDMmYZQdLDev3BRTfcIbGe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.mysqlData.js">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myEcharts/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Die.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/Die.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/index.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="mysqlData.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/mysqlData.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.mysqlData.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.Die.js" />
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75e911d4-412a-4af4-8e9f-a6d3d84a2175" name="Default Changelist" comment="" />
+      <created>1617189801188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617189801188</updated>
+      <workItem from="1617189802647" duration="205000" />
+      <workItem from="1617192334488" duration="12873000" />
+      <workItem from="1617770389839" duration="1180000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617260304340">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="443" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1617260304340" />
+    <state width="1419" height="304" key="GridCell.Tab.0.bottom" timestamp="1617515862690">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1617260454816" />
+    <state width="1419" height="304" key="GridCell.Tab.0.bottom/0.25.1440.820@0.25.1440.820" timestamp="1617515862690" />
+    <state width="1419" height="304" key="GridCell.Tab.0.center" timestamp="1617515862689">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1617260454813" />
+    <state width="1419" height="304" key="GridCell.Tab.0.center/0.25.1440.820@0.25.1440.820" timestamp="1617515862689" />
+    <state width="1419" height="304" key="GridCell.Tab.0.left" timestamp="1617515862686">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1617260454812" />
+    <state width="1419" height="304" key="GridCell.Tab.0.left/0.25.1440.820@0.25.1440.820" timestamp="1617515862686" />
+    <state width="1419" height="304" key="GridCell.Tab.0.right" timestamp="1617515862689">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1617260454814" />
+    <state width="1419" height="304" key="GridCell.Tab.0.right/0.25.1440.820@0.25.1440.820" timestamp="1617515862689" />
+    <state width="1419" height="304" key="GridCell.Tab.1.bottom" timestamp="1617515862694">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1419" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1617207014152" />
+    <state width="1419" height="304" key="GridCell.Tab.1.bottom/0.25.1440.820@0.25.1440.820" timestamp="1617515862694" />
+    <state width="1419" height="304" key="GridCell.Tab.1.center" timestamp="1617515862692">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1419" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1617207014150" />
+    <state width="1419" height="304" key="GridCell.Tab.1.center/0.25.1440.820@0.25.1440.820" timestamp="1617515862692" />
+    <state width="1419" height="304" key="GridCell.Tab.1.left" timestamp="1617515862691">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1419" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1617207014148" />
+    <state width="1419" height="304" key="GridCell.Tab.1.left/0.25.1440.820@0.25.1440.820" timestamp="1617515862691" />
+    <state width="1419" height="304" key="GridCell.Tab.1.right" timestamp="1617515862694">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1419" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1617207014151" />
+    <state width="1419" height="304" key="GridCell.Tab.1.right/0.25.1440.820@0.25.1440.820" timestamp="1617515862694" />
+    <state width="1419" height="304" key="GridCell.Tab.2.bottom" timestamp="1617515862700">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1419" height="304" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1617207014157" />
+    <state width="1419" height="304" key="GridCell.Tab.2.bottom/0.25.1440.820@0.25.1440.820" timestamp="1617515862700" />
+    <state width="1419" height="304" key="GridCell.Tab.2.center" timestamp="1617515862698">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1419" height="304" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1617207014155" />
+    <state width="1419" height="304" key="GridCell.Tab.2.center/0.25.1440.820@0.25.1440.820" timestamp="1617515862698" />
+    <state width="1419" height="304" key="GridCell.Tab.2.left" timestamp="1617515862696">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1419" height="304" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1617207014154" />
+    <state width="1419" height="304" key="GridCell.Tab.2.left/0.25.1440.820@0.25.1440.820" timestamp="1617515862696" />
+    <state width="1419" height="304" key="GridCell.Tab.2.right" timestamp="1617515862699">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1419" height="304" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1617207014156" />
+    <state width="1419" height="304" key="GridCell.Tab.2.right/0.25.1440.820@0.25.1440.820" timestamp="1617515862699" />
+    <state width="1419" height="304" key="GridCell.Tab.3.bottom" timestamp="1617515862705">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1419" height="304" key="GridCell.Tab.3.bottom/0.0.1440.900@0.0.1440.900" timestamp="1617207014163" />
+    <state width="1419" height="304" key="GridCell.Tab.3.bottom/0.25.1440.820@0.25.1440.820" timestamp="1617515862705" />
+    <state width="1419" height="304" key="GridCell.Tab.3.center" timestamp="1617515862702">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1419" height="304" key="GridCell.Tab.3.center/0.0.1440.900@0.0.1440.900" timestamp="1617207014161" />
+    <state width="1419" height="304" key="GridCell.Tab.3.center/0.25.1440.820@0.25.1440.820" timestamp="1617515862702" />
+    <state width="1419" height="304" key="GridCell.Tab.3.left" timestamp="1617515862701">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1419" height="304" key="GridCell.Tab.3.left/0.0.1440.900@0.0.1440.900" timestamp="1617207014160" />
+    <state width="1419" height="304" key="GridCell.Tab.3.left/0.25.1440.820@0.25.1440.820" timestamp="1617515862701" />
+    <state width="1419" height="304" key="GridCell.Tab.3.right" timestamp="1617515862703">
+      <screen x="0" y="25" width="1440" height="820" />
+    </state>
+    <state width="1419" height="304" key="GridCell.Tab.3.right/0.0.1440.900@0.0.1440.900" timestamp="1617207014162" />
+    <state width="1419" height="304" key="GridCell.Tab.3.right/0.25.1440.820@0.25.1440.820" timestamp="1617515862703" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/mysqlData.js</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/index.js</url>
+          <line>127</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

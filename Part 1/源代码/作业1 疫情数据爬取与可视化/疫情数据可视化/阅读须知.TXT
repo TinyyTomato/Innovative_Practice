@@ -1,0 +1,8 @@
+数据可视化均采用WebStorm前端开发软件
+
+Echarts 体验.txt   是对于Echarts的初步认识
+Echarts 数据可视化.txt   是对于疫情数据的可视化
+
+由于代码及素材过多 故所有的文件均在   Echarts 数据可视化   文件夹中
+其中Echarts 体验.html   与   Echarts 数据可视化.html   可以直接查看数据可视化效果
+其余均为实现数据可视化的子文件

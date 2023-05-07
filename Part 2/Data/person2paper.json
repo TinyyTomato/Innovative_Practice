@@ -1,0 +1,1050 @@
+{
+  "took" : 86,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 10000,
+      "relation" : "gte"
+    },
+    "max_score" : 38.05844,
+    "hits" : [
+      {
+        "_index" : "new_dblp",
+        "_type" : "_doc",
+        "_id" : "IQuI_4ABRU58nyXGHdq9",
+        "_score" : 38.05844,
+        "_ignored" : [
+          "document.abstract.keyword"
+        ],
+        "_source" : {
+          "document" : {
+            "title" : "Dynamic Graph CNN for Learning on Point Clouds.",
+            "doi" : "10.1145/3326362",
+            "authors" : [
+              {
+                "orgs" : [
+                  "MIT, Cambridge, MA 02139 USA"
+                ],
+                "sid" : "2784418645",
+                "org" : "Massachusetts Institute of Technology",
+                "name" : "Yue Wang",
+                "_id" : "542bc9f1dabfae2b4e19fd74",
+                "orgid" : "5f71b2831c455f439fe3c633",
+                "email" : "yuewang@csail.mit.edu"
+              },
+              {
+                "orgs" : [
+                  "MIT, Cambridge, MA 02139 USA"
+                ],
+                "sid" : "2785186749",
+                "org" : "Massachusetts Institute of Technology",
+                "name" : "Yongbin Sun",
+                "_id" : "560dea5a45cedb33976242ba",
+                "orgid" : "5f71b2831c455f439fe3c633"
+              },
+              {
+                "orgs" : [
+                  "Univ Calif Berkeley, ICSI, Berkeley, CA USA",
+                  "Chinese Univ Hong Kong, Hong Kong, Peoples R China"
+                ],
+                "sid" : "2947936273",
+                "org" : "UC Berkeley/ICSI",
+                "name" : "Ziwei Liu",
+                "_id" : "560c619045ce1e59606ce213",
+                "orgid" : "5f71b2841c455f439fe3c6b7"
+              },
+              {
+                "orgs" : [
+                  "MIT, Cambridge, MA 02139 USA"
+                ],
+                "sid" : "2170183435",
+                "org" : "Massachusetts Institute of Technology",
+                "name" : "Sanjay E. Sarma",
+                "_id" : "53f42d48dabfaedce54c3d30",
+                "orgid" : "5f71b2831c455f439fe3c633"
+              },
+              {
+                "orgs" : [
+                  "Imperial Coll London, USI Lugano, London, England"
+                ],
+                "name" : "Michael M. Bronstein",
+                "_id" : "53f7ce7ddabfae92b40e594c",
+                "org" : "Imperial College London/USI Lugano",
+                "orgid" : "5f71b2871c455f439fe3c7fe"
+              },
+              {
+                "orgs" : [
+                  "MIT, Cambridge, MA 02139 USA"
+                ],
+                "sid" : "2129693131",
+                "org" : "Massachusetts Institute of Technology",
+                "name" : "Justin M. Solomon",
+                "_id" : "53f36d1cdabfae4b349b3976",
+                "orgid" : "5f71b2831c455f439fe3c633"
+              }
+            ],
+            "volume" : "38",
+            "isbn" : "",
+            "n_citation" : 1095,
+            "lang" : "en",
+            "venue" : {
+              "sid" : "tog",
+              "issn" : "0730-0301",
+              "name" : "ACM Transactions on Graphics",
+              "t" : "J",
+              "raw" : "ACM Transactions on Graphics",
+              "online_issn" : "1557-7368"
+            },
+            "abstract" : "Point clouds provide a flexible geometric representation suitable for countless applications in computer graphics; they also comprise the raw output of most 3D data acquisition devices. While hand-designed features on point clouds have long been proposed in graphics and vision, however, the recent overwhelming success of convolutional neural networks (CNNs) for image analysis suggests the value of adapting insight from CNN to the point cloud world. Point clouds inherently lack topological information, so designing a model to recover topology can enrich the representation power of point clouds. To this end, we propose a new neural network module dubbed EdgeConv suitable for CNN-based high-level tasks on point clouds, including classification and segmentation. EdgeConv acts on graphs dynamically computed in each layer of the network. It is differentiable and can be plugged into existing architectures. Compared to existing modules operating in extrinsic space or treating each point independently, EdgeConv has several appealing properties: It incorporates local neighborhood information; it can be stacked applied to learn global shape properties; and in multi-layer systems affinity in feature space captures semantic characteristics over potentially long distances in the original embedding. We show the performance of our model on standard benchmarks, including ModelNet40, ShapeNetPart, and S3DIS.\n\n",
+            "issn" : "0730-0301",
+            "pdf" : "https://static.aminer.cn/upload/pdf/1806/1259/297/5a9cb65d17c44a376ffb8377_0.pdf",
+            "keywords" : [
+              "Point cloud",
+              "classification",
+              "segmentation"
+            ],
+            "page_end" : "12",
+            "year" : 2019,
+            "_id" : "5a9cb65d17c44a376ffb8377",
+            "fos" : [
+              "Graphics",
+              "Feature vector",
+              "Embedding",
+              "Computer science",
+              "Segmentation",
+              "Convolutional neural network",
+              "Theoretical computer science",
+              "Artificial neural network",
+              "Point cloud",
+              "Computer graphics"
+            ],
+            "page_start" : "1",
+            "url" : [
+              "http://arxiv.org/abs/1801.07829",
+              "db/journals/tog/tog38.html#WangSLSBS19",
+              "https://doi.org/10.1145/3326362",
+              "https://dl.acm.org/doi/10.1145/3326362",
+              "https://dl.acm.org/doi/abs/10.1145/3326362",
+              "https://arxiv.org/abs/1801.07829",
+              "http://www.webofknowledge.com/"
+            ],
+            "references" : [
+              "53e99fa2b7602d97028788fd",
+              "58437777ac44360f108400f0",
+              "53e9bd18b7602d97049a0765",
+              "573695fe6e3b12023e511952",
+              "558c5f3284ae6766fdf2b1e4",
+              "53e9a87eb7602d97031cb486",
+              "5c8c9df14895d9cbc612db15",
+              "53e99eafb7602d970277a572",
+              "5a73cb6317c44a0b30358072",
+              "53e9b75ab7602d97042fadd4",
+              "53e9a96cb7602d97032c4c97",
+              "5a73cbcc17c44a0b3035f5ef",
+              "5c0495ae17c44a2c747018f8",
+              "53e9b254b7602d9703cf70bb",
+              "5aed14d117c44a4438158a8e",
+              "599da88f5d763cf99f7389d9",
+              "573695fd6e3b12023e511373",
+              "5548e1680cf2abac7d04290c",
+              "58437725ac44360f108300fd",
+              "599c7945601a182cd2629f8d",
+              "5a4aef9e17c44a2190f7a8e2",
+              "53e9ac75b7602d9703647205",
+              "558b090784ae84d265c11d3d",
+              "599c7f08601a182cd28e5abd",
+              "58d82fced649053542fd6e2e",
+              "5736960c6e3b12023e51ee06",
+              "5ff68c87d4150a363cd2a69f",
+              "5bdc315817c44a1f58a05e9d",
+              "558a8d0ae4b0b32fcb377cd0",
+              "53e9ae69b7602d9703883f33",
+              "573696f46e3b12023e5f10b0",
+              "5550415a45ce0a409eb3a87b",
+              "58d82fced649053542fd7243",
+              "53e99e93b7602d9702759041",
+              "573697856e3b12023e66b10b",
+              "53e9a479b7602d9702d9844d",
+              "5550424f45ce0a409eb41784",
+              "58d82fc8d649053542fd59aa",
+              "573697ee6e3b12023e6c8d81",
+              "5c84794a4895d9cbc6123c6f",
+              "573697826e3b12023e66974a",
+              "5a73cbcc17c44a0b3035f70e",
+              "599c797f601a182cd2644442",
+              "558b3499e4b037c0875b965e",
+              "53e9a1c9b7602d9702ac2429",
+              "5ac1829d17c44a1fda917ef5",
+              "599c797b601a182cd2642a1a",
+              "5c2348ceda562935fc1d56eb",
+              "58437744ac44360f10834938",
+              "53e9b5bcb7602d97041070ad",
+              "5c0495ae17c44a2c7470180f",
+              "5a260c5717c44a4ba8a295e4",
+              "5736960b6e3b12023e51e2a0",
+              "56d83cbddabfae2eee69b5cc",
+              "599c7961601a182cd2637886",
+              "53e9bdeeb7602d9704a9e4e2",
+              "53e9ab6fb7602d970350da23",
+              "58d82fd2d649053542fd75d8"
+            ],
+            "issue" : "5"
+          },
+          "@version" : "1",
+          "@timestamp" : "2022-05-26T08:42:32.046Z"
+        }
+      },
+      {
+        "_index" : "new_dblp",
+        "_type" : "_doc",
+        "_id" : "4hOK_4ABRU58nyXGgNgE",
+        "_score" : 24.888422,
+        "_ignored" : [
+          "document.abstract.keyword"
+        ],
+        "_source" : {
+          "document" : {
+            "title" : "Linked Dynamic Graph CNN: Learning on Point Cloud via Linking Hierarchical Features.",
+            "doi" : "",
+            "authors" : [
+              {
+                "name" : "Kuangen Zhang",
+                "sid" : "2912197648"
+              },
+              {
+                "name" : "Ming Hao",
+                "sid" : "2941282315"
+              },
+              {
+                "name" : "Jing Wang",
+                "sid" : "2921991974"
+              },
+              {
+                "name" : "Clarence W. de Silva",
+                "_id" : "544891b4dabfae87b7e45473",
+                "sid" : "2629179793"
+              },
+              {
+                "name" : "Chenglong Fu",
+                "_id" : "53f4c79edabfaee57e77c535"
+              }
+            ],
+            "volume" : "abs/1904.10014",
+            "n_citation" : 0,
+            "lang" : "en",
+            "venue" : {
+              "raw" : "arXiv: Computer Vision and Pattern Recognition"
+            },
+            "abstract" : "Learning on point cloud is eagerly in demand because the point cloud is a common type of geometric data and can aid robots to understand environments robustly. However, the point cloud is sparse, unstructured, and unordered, which cannot be recognized accurately by a traditional convolutional neural network (CNN) nor a recurrent neural network (RNN). Fortunately, a graph convolutional neural network (Graph CNN) can process sparse and unordered data. Hence, we propose a linked dynamic graph CNN (LDGCNN) to classify and segment point cloud directly in this paper. We remove the transformation network, link hierarchical features from dynamic graphs, freeze feature extractor, and retrain the classifier to increase the performance of LDGCNN. We explain our network using theoretical analysis and visualization. Through experiments, we show that the proposed LDGCNN achieves state-of-art performance on two standard datasets: ModelNet40 and ShapeNet.",
+            "pdf" : "https://static.aminer.cn/storage/pdf/arxiv/19/1904/1904.10014.pdf",
+            "page_end" : "",
+            "year" : 2019,
+            "_id" : "5cede0e7da562983788c5baa",
+            "fos" : [
+              "Geometric data analysis",
+              "Graph",
+              "Pattern recognition",
+              "Computer science",
+              "Convolutional neural network",
+              "Visualization",
+              "Recurrent neural network",
+              "Artificial intelligence",
+              "Classifier (linguistics)",
+              "Robot",
+              "Point cloud"
+            ],
+            "page_start" : "",
+            "url" : [
+              "db/journals/corr/corr1904.html#abs-1904-10014",
+              "http://arxiv.org/abs/1904.10014",
+              "https://arxiv.org/abs/1904.10014"
+            ],
+            "references" : [
+              "5c5ce4fd17c44a400fc38742",
+              "5a4aef9e17c44a2190f7a843",
+              "53e9bd18b7602d97049a0765",
+              "5cede0f9da562983788d8f48",
+              "5cede0ecda562983788ca38e",
+              "58d82fced649053542fd7243",
+              "58437725ac44360f108300fd",
+              "573698016e3b12023e6da477",
+              "599c7945601a182cd2629f8d",
+              "573696026e3b12023e515eec",
+              "58437744ac44360f10834938",
+              "53e99d74b7602d9702630723",
+              "5550424f45ce0a409eb41784",
+              "573697ee6e3b12023e6c8d81",
+              "5bdc31b417c44a1f58a0ba1a",
+              "573697826e3b12023e66974a"
+            ],
+            "issue" : ""
+          },
+          "@version" : "1",
+          "@timestamp" : "2022-05-26T08:45:07.850Z"
+        }
+      },
+      {
+        "_index" : "new_dblp",
+        "_type" : "_doc",
+        "_id" : "jh2N_4ABRU58nyXGOHod",
+        "_score" : 24.888422,
+        "_ignored" : [
+          "document.abstract.keyword"
+        ],
+        "_source" : {
+          "document" : {
+            "title" : "Faster Dynamic Graph CNN: Faster Deep Learning on 3D Point Cloud Data",
+            "doi" : "10.1109/ACCESS.2020.3023423",
+            "authors" : [
+              {
+                "orgs" : [
+                  "Artificial Intelligence Research Institute, Seongnam, South Korea"
+                ],
+                "name" : "Jinseok Hong",
+                "org" : "Artificial Intelligence Research Institute, Seongnam, South Korea"
+              },
+              {
+                "orgs" : [
+                  "Artificial Intelligence Research Institute, Seongnam, South Korea"
+                ],
+                "name" : "Keeyoung Kim",
+                "org" : "Artificial Intelligence Research Institute, Seongnam, South Korea"
+              },
+              {
+                "orgs" : [
+                  "School of Industrial Management Engineering, Korea University, Seoul, South Korea#TAB#"
+                ],
+                "name" : "Hongchul Lee",
+                "org" : "School of Industrial Management Engineering, Korea University, Seoul, South Korea#TAB#",
+                "orgid" : "5f71b2f41c455f439fe3f741"
+              }
+            ],
+            "volume" : "8",
+            "abstract" : "Geometric data are commonly expressed using point clouds, with most 3D data collection devices outputting data in this form. Research on processing point cloud data for deep learning is ongoing. However, it has been difficult to apply such data as input to a convolutional neural network (CNN) or recurrent neural network (RNN) because of their unstructured and unordered features. In this study, this problem was resolved by arranging point cloud data in a canonical space through a graph CNN. The proposed graph CNN works dynamically at each layer of the network and learns the global geometric features by capturing the neighbor information of the points. In addition, by using a squeeze-and-excitation module that recalibrates the information for each layer, we achieved a good trade-off between the performance and the computation cost, and a residual-type skip connection network was designed to train the deep models efficiently. Using the proposed model, we achieved a state-of-the-art performance in terms of classification and segmentation on benchmark datasets, namely ModelNet40 and ShapeNet, while being able to train our model 2 to 2.5 times faster than other similar models.",
+            "venue" : {
+              "name" : "IEEE Access",
+              "t" : "J",
+              "sid" : "2485537415",
+              "raw" : "IEEE Access"
+            },
+            "page_end" : "190538",
+            "year" : 2020,
+            "_id" : "5ff6858dd4150a363cc0e8b8",
+            "fos" : [
+              "Geometric data analysis",
+              "Pattern recognition",
+              "Convolutional neural network",
+              "Computer science",
+              "Recurrent neural network",
+              "Feature extraction",
+              "Solid modeling",
+              "Artificial intelligence",
+              "Deep learning",
+              "Artificial neural network",
+              "Point cloud"
+            ],
+            "page_start" : "190529",
+            "url" : [
+              "https://dblp.uni-trier.de/db/journals/access/access8.html#HongKL20"
+            ],
+            "references" : [
+              "53e99fa2b7602d97028788fd",
+              "5d9edbea47c8f7664602cdf8",
+              "5a4aef9e17c44a2190f7a843",
+              "5a9cb65d17c44a376ffb8377",
+              "573695fe6e3b12023e511952",
+              "573696026e3b12023e515eec",
+              "53e9a841b7602d970318da4e",
+              "5dbebb7447c8f766462c232a",
+              "5c8a151b4895d9cbc613b329",
+              "5a260c8117c44a4ba8a30f54",
+              "5cede0ecda562983788ca38e",
+              "573695fd6e3b12023e511373",
+              "58437725ac44360f108300fd",
+              "599c7945601a182cd2629f8d",
+              "5da2f8aa3a55ac3402d8c111",
+              "5736960c6e3b12023e51ee06",
+              "573696016e3b12023e5144b0",
+              "58437722ac44360f1082ed35",
+              "573696f36e3b12023e5f0a61",
+              "5bdc315817c44a1f58a05e9d",
+              "58d82fced649053542fd6bed",
+              "599c7f07601a182cd28e510e",
+              "573696f46e3b12023e5f10b0",
+              "58d82fced649053542fd7243",
+              "5736960e6e3b12023e520c34",
+              "573697856e3b12023e66b10b",
+              "58d82fcbd649053542fd67d7",
+              "599c7960601a182cd2636137",
+              "58d82fc8d649053542fd59aa",
+              "599c797a601a182cd2641cc7",
+              "573696036e3b12023e516e7d",
+              "573697ee6e3b12023e6c8d81",
+              "5736986c6e3b12023e73037b",
+              "573697826e3b12023e66974a",
+              "57a4e91aac44365e35c9802f",
+              "5a73cbcc17c44a0b3035f70e",
+              "5550412445ce0a409eb38d01",
+              "5736986b6e3b12023e73002f",
+              "5a260c8117c44a4ba8a30771",
+              "599c797f601a182cd2644442",
+              "59ae3bf12bbe271c4c71baaa",
+              "599c7974601a182cd263f239",
+              "58437744ac44360f10834938",
+              "53e9b5bcb7602d97041070ad",
+              "57a4e91aac44365e35c979bf",
+              "5c0495ae17c44a2c7470180f",
+              "5a9cb65d17c44a376ffb82e9",
+              "5736960b6e3b12023e51e2a0",
+              "57a4e91aac44365e35c97cf6",
+              "573695ff6e3b12023e512e16",
+              "599c7961601a182cd2637886",
+              "5550417d45ce0a409eb3bc08",
+              "59ae3bf12bbe271c4c71bd1a",
+              "57a4e91dac44365e35c9861d",
+              "5736960a6e3b12023e51d5fb",
+              "58d82fd2d649053542fd75d8",
+              "599c794a601a182cd262cf72"
+            ]
+          },
+          "@version" : "1",
+          "@timestamp" : "2022-05-26T08:48:06.511Z"
+        }
+      },
+      {
+        "_index" : "new_dblp",
+        "_type" : "_doc",
+        "_id" : "HhSK_4ABRU58nyXGoYHW",
+        "_score" : 24.220343,
+        "_ignored" : [
+          "document.abstract.keyword"
+        ],
+        "_source" : {
+          "document" : {
+            "title" : "Graph-based Inpainting for 3D Dynamic Point Clouds",
+            "doi" : "",
+            "authors" : [
+              {
+                "name" : "Zeqing Fu",
+                "sid" : "2892314459",
+                "org" : "Peking University",
+                "gid" : "5b86b6bfe1cd8e14a34c939e",
+                "orgid" : "5f71b2881c455f439fe3c85d"
+              },
+              {
+                "name" : "Wei Hu",
+                "_id" : "5440fddbdabfae7f9b361238",
+                "sid" : "2618143090"
+              },
+              {
+                "sid" : "2154320255",
+                "org" : "Peking University",
+                "gid" : "5b86b6bfe1cd8e14a34c939e",
+                "name" : "Zongming Guo",
+                "_id" : "563136d045cedb3399d0cc3f",
+                "orgid" : "5f71b2881c455f439fe3c85d"
+              }
+            ],
+            "volume" : "",
+            "n_citation" : 0,
+            "lang" : "en",
+            "venue" : {
+              "raw" : "arXiv: Graphics",
+              "sid" : "2596830251"
+            },
+            "abstract" : "With the development of depth sensors and 3D laser scanning techniques, 3D dynamic point clouds have attracted increasing attention as a format for the representation of 3D objects in motion, with applications in various fields such as 3D immersive tele-presence, navigation, animation, gaming and virtual reality. However, dynamic point clouds usually exhibit holes of missing data, mainly due to the fast motion, the limitation of acquisition techniques and complicated structure. Further, point clouds are defined on irregular non-Euclidean domain, which is challenging to address with conventional methods for regular data. Hence, leveraging on graph signal processing tools, we propose an efficient dynamic point cloud inpainting method, exploiting both the inter-frame coherence and the intra-frame self-similarity in 3D dynamic point clouds. Specifically, for each frame in a point cloud sequence, we first split it into cubes of fixed size as the processing unit, and treat cubes with holes inside as target cubes. Secondly, we take advantage of the intra-frame self-similarity in the target frame, by globally searching for the most similar cube to each target cube as the intra-source cube. Thirdly, we exploit the inter-frame coherence among every three consecutive frames, by searching the corresponding cubes in the previous and subsequent frames for each target cube as the inter-source cubes, which contains most nearest neighbors of the target cube in the relative location. Finally, we formulate dynamic point cloud inpainting as an optimization problem based on both intra- and inter-source cubes, which is regularized by the graph-signal smoothness prior. Experimental results show that the proposed approach outperforms three competing methods significantly, both in objective and subjective quality.",
+            "pdf" : "https://static.aminer.cn/storage/pdf/arxiv/19/1904/1904.10795.pdf",
+            "page_end" : "",
+            "year" : 2019,
+            "_id" : "5ce3ad5cced107d4c65b8f86",
+            "fos" : [
+              "Computer vision",
+              "Laser scanning",
+              "Computer science",
+              "Coherence (physics)",
+              "Inpainting",
+              "Artificial intelligence",
+              "Animation",
+              "Missing data",
+              "Point cloud",
+              "Optimization problem",
+              "Cube"
+            ],
+            "page_start" : "",
+            "url" : [
+              "db/journals/corr/corr1904.html#abs-1904-10795",
+              "http://arxiv.org/abs/1904.10795",
+              "https://arxiv.org/abs/1904.10795"
+            ],
+            "issue" : ""
+          },
+          "@version" : "1",
+          "@timestamp" : "2022-05-26T08:45:16.258Z"
+        }
+      },
+      {
+        "_index" : "new_dblp",
+        "_type" : "_doc",
+        "_id" : "ThyM_4ABRU58nyXG_LQk",
+        "_score" : 23.304615,
+        "_ignored" : [
+          "document.abstract.keyword"
+        ],
+        "_source" : {
+          "document" : {
+            "title" : "Point Clouds Learning Using Directed Connected Graph",
+            "doi" : "10.1109/ISKE47853.2019.9170203",
+            "authors" : [
+              {
+                "orgs" : [
+                  "Southwest Jiaotong University,The school of information science and technology,Chengdu,China"
+                ],
+                "name" : "Zhuyang Xie",
+                "org" : "Southwest Jiaotong University,The school of information science and technology,Chengdu,China",
+                "orgid" : "5f71b3761c455f439fe430dd"
+              },
+              {
+                "orgs" : [
+                  "Southwest Jiaotong University,The school of information science and technology,Chengdu,China"
+                ],
+                "name" : "Bo Peng",
+                "org" : "Southwest Jiaotong University,The school of information science and technology,Chengdu,China",
+                "orgid" : "5f71b3761c455f439fe430dd"
+              },
+              {
+                "orgs" : [
+                  "Sun Yat-sen University,Research Center of Intelligent Transportation System,Guangzhou,China"
+                ],
+                "name" : "Junzhou Chen",
+                "org" : "Sun Yat-sen University,Research Center of Intelligent Transportation System,Guangzhou,China",
+                "orgid" : "5f71b2af1c455f439fe3d880"
+              }
+            ],
+            "abstract" : "With the development of various 3D sensors, it has become easier for humans to obtain information in the 3D world, more and more people turn their attention to the problem of point clouds understanding. At present, most of methods focus on directly extracting features from point clouds, where feature extraction is performed by Multi-Layer Perception (MLP) and fusion is by local pooling. However, they do not consider the spatial relationship within the local point sets. We propose a directed connected graph network (DCGN), which can effectively capture the spatial relationship of local point sets by constructing the directed connected graph (DCG). Specifically, in the feature learning stage, the connection directions from neighbor points to the center point are constructed for each local point set to learn the feature transferring weights from neighbor points to center point. In order to further model the spatial distribution of local point sets, we use a distance-weighted method to perform local feature fusion. Extensive experimental results demonstrate that our method can achieve competitive performance on some standard data sets.",
+            "venue" : {
+              "t" : "C",
+              "raw" : "ISKE",
+              "sid" : "conf/iske"
+            },
+            "page_end" : "863",
+            "year" : 2019,
+            "_id" : "5ff68328d4150a363cbbc42e",
+            "fos" : [
+              "Data set",
+              "Pattern recognition",
+              "Computer science",
+              "Pooling",
+              "Feature extraction",
+              "Artificial intelligence",
+              "Deep learning",
+              "Connectivity",
+              "Point cloud",
+              "Perception",
+              "Feature learning"
+            ],
+            "page_start" : "857",
+            "url" : [
+              "https://dblp.uni-trier.de/db/conf/iske/iske2019.html#XiePC19",
+              "https://dblp.org/rec/conf/iske/XiePC19",
+              "https://doi.org/10.1109/ISKE47853.2019.9170203"
+            ],
+            "references" : [
+              "5c8a151b4895d9cbc613b329",
+              "5c0495ae17c44a2c74701c2f",
+              "5a9cb65d17c44a376ffb8377",
+              "5aed14d117c44a4438158999",
+              "58d82fcbd649053542fd67c0",
+              "5736960e6e3b12023e520c13",
+              "58d82fced649053542fd7243",
+              "573698016e3b12023e6da477",
+              "599c7945601a182cd2629f8d",
+              "573697846e3b12023e66aa2d",
+              "599c797b601a182cd2642a1a",
+              "58d82fd2d649053542fd7a26",
+              "5aed14d617c44a4438159012",
+              "573696026e3b12023e515eec",
+              "573696f46e3b12023e5f164a",
+              "573697ee6e3b12023e6c8d81",
+              "5c0495ae17c44a2c74701785",
+              "5550411c45ce0a409eb3897f",
+              "573696056e3b12023e51921c",
+              "573696f46e3b12023e5f10b0"
+            ]
+          },
+          "@version" : "1",
+          "@timestamp" : "2022-05-26T08:47:51.131Z"
+        }
+      },
+      {
+        "_index" : "new_dblp",
+        "_type" : "_doc",
+        "_id" : "ZQ6J_4ABRU58nyXGEv0t",
+        "_score" : 22.712536,
+        "_ignored" : [
+          "document.abstract.keyword"
+        ],
+        "_source" : {
+          "document" : {
+            "title" : "Multi-Kernel Diffusion CNNs for Graph-Based Learning on Point Clouds.",
+            "doi" : "10.1007/978-3-030-11015-4_33",
+            "authors" : [
+              {
+                "name" : "Lasse Hansen",
+                "org" : "Institute of Medical Informatics, University of Lübeck, Lübeck, Germany",
+                "gid" : "5b86a6e6e1cd8e14a3e04b59",
+                "orgid" : "5f71b3d11c455f439fe45885"
+              },
+              {
+                "name" : "Jasper Diesel",
+                "org" : "Drägerwerk AG & Co. KGaA, Lübeck, Germany",
+                "orgid" : "5f71b3121c455f439fe4040a"
+              },
+              {
+                "name" : "Mattias P. Heinrich",
+                "_id" : "53f43253dabfaedce550447c",
+                "org" : "Institute of Medical Informatics, University of Lübeck, Lübeck, Germany",
+                "gid" : "5b86a6e6e1cd8e14a3e04b59",
+                "orgid" : "5f71b3d11c455f439fe45885"
+              }
+            ],
+            "volume" : "abs/1809.05370",
+            "isbn" : "",
+            "n_citation" : 2,
+            "lang" : "en",
+            "venue" : {
+              "_id" : "53a727c520f7420be8b9ba3f",
+              "type" : 0,
+              "raw" : "ECCV Workshops"
+            },
+            "abstract" : "Graph convolutional networks are a new promising learning approach to deal with data on irregular domains. They are predestined to overcome certain limitations of conventional grid-based architectures and will enable efficient handling of point clouds or related graphical data representations, e.g. superpixel graphs. Learning feature extractors and classifiers on 3D point clouds is still an underdeveloped area and has potential restrictions to equal graph topologies. In this work, we derive a new architectural design that combines rotationally and topologically invariant graph diffusion operators and node-wise feature learning through (1times 1) convolutions. By combining multiple isotropic diffusion operations based on the Laplace-Beltrami operator, we can learn an optimal linear combination of diffusion kernels for effective feature propagation across nodes on an irregular graph. We validated our approach for learning point descriptors as well as semantic classification on real 3D point clouds of human poses and demonstrate an improvement from 85% to 95% in Dice overlap with our multi-kernel approach.",
+            "issn" : "",
+            "pdf" : "https://static.aminer.cn/upload/pdf/program/5bdc31b417c44a1f58a0b37b_0.pdf",
+            "page_end" : "",
+            "year" : 2018,
+            "_id" : "5bdc31b417c44a1f58a0b37b",
+            "fos" : [
+              "Linear combination",
+              "Convolution",
+              "Computer science",
+              "Theoretical computer science",
+              "Network topology",
+              "Operator (computer programming)",
+              "Invariant (mathematics)",
+              "Point cloud",
+              "Grid",
+              "Feature learning"
+            ],
+            "page_start" : "",
+            "url" : [
+              "http://arxiv.org/abs/1809.05370",
+              "http://dx.doi.org/10.1007/978-3-030-11015-4_33",
+              "https://dblp.org/rec/conf/eccv/HansenDH18",
+              "https://doi.org/10.1007/978-3-030-11015-4_33",
+              "https://arxiv.org/abs/1809.05370"
+            ],
+            "references" : [
+              "53e9b321b7602d9703deb8d7",
+              "53e9bd18b7602d97049a0765",
+              "558b3499e4b037c0875b965e",
+              "53e9b87fb7602d970444e7a2",
+              "53e99e93b7602d9702759041",
+              "599c7945601a182cd2629f8d",
+              "573697856e3b12023e66b10b",
+              "53e9ac18b7602d97035d9131",
+              "5550460645ce0a409eb5b718",
+              "53e997e4b7602d9701fdceec",
+              "58d83051d649053542fe9c38",
+              "5736986b6e3b12023e730129",
+              "53e9a841b7602d970318da4e",
+              "58d82fc8d649053542fd59aa",
+              "5a260c8417c44a4ba8a31929",
+              "573697ee6e3b12023e6c8d81",
+              "573696726e3b12023e57e973",
+              "58d82fd2d649053542fd75d8",
+              "573696f46e3b12023e5f10b0",
+              "558bd2f684ae6766fdef6fd6"
+            ],
+            "issue" : ""
+          },
+          "@version" : "1",
+          "@timestamp" : "2022-05-26T08:43:34.628Z"
+        }
+      },
+      {
+        "_index" : "new_dblp",
+        "_type" : "_doc",
+        "_id" : "axOK_4ABRU58nyXGfdK9",
+        "_score" : 22.4493,
+        "_ignored" : [
+          "document.abstract.keyword"
+        ],
+        "_source" : {
+          "document" : {
+            "title" : "A-CNN: Annularly Convolutional Neural Networks on Point Clouds.",
+            "doi" : "",
+            "authors" : [
+              {
+                "name" : "Artem Komarichev",
+                "_id" : "56302dd445ceb49c5da02198",
+                "sid" : "2902222190",
+                "org" : "Wayne State University",
+                "orgid" : "5f71b2981c455f439fe3cf82"
+              },
+              {
+                "name" : "Zichun Zhong",
+                "_id" : "53f457fadabfaee4dc818319",
+                "sid" : "2081116960",
+                "org" : "Wayne State University",
+                "orgid" : "5f71b2981c455f439fe3cf82"
+              },
+              {
+                "name" : "Jing Hua",
+                "_id" : "5602f38845cedb3396080efb",
+                "org" : "Wayne State University",
+                "orgid" : "5f71b2981c455f439fe3cf82"
+              }
+            ],
+            "volume" : "abs/1904.08017",
+            "n_citation" : 23,
+            "lang" : "en",
+            "venue" : {
+              "raw" : "CVPR"
+            },
+            "abstract" : "Analyzing the geometric and semantic properties of 3D point clouds through the deep networks is still challenging due to the irregularity and sparsity of samplings of their geometric structures. This paper presents a new method to define and compute convolution directly on 3D point clouds by the proposed annular convolution. This new convolution operator can better capture the local neighborhood geometry of each point by specifying the (regular and dilated) ring-shaped structures and directions in the computation. It can adapt to the geometric variability and scalability at the signal processing level. We apply it to the developed hierarchical neural networks for object classification, part segmentation, and semantic segmentation in large-scale scenes. The extensive experiments and comparisons demonstrate that our approach outperforms the state-of-the-art methods on a variety of standard benchmark datasets (e.g., ModelNet10, ModelNet40, ShapeNet-part, S3DIS, and ScanNet).",
+            "pdf" : "https://static.aminer.cn/upload/pdf/program/5cede0e0da562983788bf8c8_0.pdf",
+            "page_end" : "7430",
+            "year" : 2019,
+            "_id" : "5cede0e0da562983788bf8c8",
+            "fos" : [
+              "Signal processing",
+              "Pattern recognition",
+              "Convolutional neural network",
+              "Convolution",
+              "Segmentation",
+              "Computer science",
+              "Artificial intelligence",
+              "Point cloud",
+              "Artificial neural network",
+              "Computation",
+              "Scalability"
+            ],
+            "page_start" : "7421",
+            "url" : [
+              "db/journals/corr/corr1904.html#abs-1904-08017",
+              "http://arxiv.org/abs/1904.08017",
+              "https://dblp.org/rec/conf/cvpr/KomarichevZH19",
+              "http://openaccess.thecvf.com/content_CVPR_2019/html/Komarichev_A-CNN_Annularly_Convolutional_Neural_Networks_on_Point_Clouds_CVPR_2019_paper.html",
+              "https://arxiv.org/abs/1904.08017"
+            ],
+            "references" : [
+              "5a4aef9e17c44a2190f7a2a2",
+              "58d82fced649053542fd7243",
+              "5a73cbcc17c44a0b3035f7cd",
+              "5b8c9f5317c44af36f8b76a5",
+              "573697856e3b12023e66b10b",
+              "5bdc315017c44a1f58a05dfc",
+              "58d82fc8d649053542fd59aa",
+              "5550401245ce0a409eb3205c",
+              "5c84794a4895d9cbc6123c6f",
+              "5c0495ae17c44a2c74701bbb",
+              "53e9a508b7602d9702e2bcf5",
+              "573697826e3b12023e66974a",
+              "5a73cb6317c44a0b30358072",
+              "53e998d5b7602d970210ff5c",
+              "5c8918014895d9cbc6af1eef",
+              "57a4e91aac44365e35c9802f",
+              "5bdc31b817c44a1f58a0c528",
+              "5c8a151b4895d9cbc613b329",
+              "573696016e3b12023e515a00",
+              "5aed14d117c44a4438158a8e",
+              "58d82fcbd649053542fd67c0",
+              "5550470045ce0a409eb6398b",
+              "599c7945601a182cd2629f8d",
+              "5c2348ceda562935fc1d56eb",
+              "58d82fd2d649053542fd7a26",
+              "5aed14d617c44a4438159012",
+              "58437744ac44360f10834938",
+              "57a4e91aac44365e35c979bf",
+              "5a73cb7417c44a0b3035a21d",
+              "5c8caac64895d9cbc616ba37",
+              "5aed14d617c44a44381594f2",
+              "5c0495ae17c44a2c74701785",
+              "5550420745ce0a409eb3f7fd",
+              "5a9cb65d17c44a376ffb831a",
+              "5a9cb65d17c44a376ffb810d",
+              "5a9cb65217c44a376ffb756e",
+              "599da7455d763cf99f738998"
+            ],
+            "issue" : ""
+          },
+          "@version" : "1",
+          "@timestamp" : "2022-05-26T08:45:07.719Z"
+        }
+      },
+      {
+        "_index" : "new_dblp",
+        "_type" : "_doc",
+        "_id" : "7hmM_4ABRU58nyXGQPce",
+        "_score" : 22.25957,
+        "_source" : {
+          "document" : {
+            "title" : "Multi-scale Dynamic Graph Convolution Network for Point Clouds Classification",
+            "doi" : "10.1109/access.2020.2985279",
+            "authors" : [
+              {
+                "orgs" : [ ],
+                "name" : "ZhengLi Zhai",
+                "sid" : "3014167922"
+              },
+              {
+                "orgs" : [ ],
+                "name" : "Xin Zhang",
+                "_id" : "5ee1c4d560a9654d944542d2",
+                "sid" : "3014972423"
+              },
+              {
+                "orgs" : [ ],
+                "name" : "LuYao Yao",
+                "sid" : "3014820785"
+              }
+            ],
+            "volume" : "",
+            "venue" : {
+              "name" : "IEEE Access",
+              "t" : "J",
+              "sid" : "2485537415",
+              "raw" : "IEEE Access"
+            },
+            "page_end" : "1",
+            "year" : 2020,
+            "_id" : "5ea014bb9fced0a24ba11e52",
+            "fos" : [
+              "Graph",
+              "Data processing",
+              "Data format",
+              "Convolution",
+              "Computer science",
+              "Segmentation",
+              "Convolutional neural network",
+              "Algorithm",
+              "Sampling (statistics)",
+              "Point cloud"
+            ],
+            "page_start" : "1",
+            "url" : [
+              "http://xplorestaging.ieee.org/ielx7/6287639/6514899/09055219.pdf?arnumber=9055219"
+            ],
+            "references" : [
+              "599c7988601a182cd2648a09",
+              "5a9cb65d17c44a376ffb8377",
+              "58d82fced649053542fd7243",
+              "58437722ac44360f1082efeb",
+              "5ac1829d17c44a1fda917ef5",
+              "5b67b4b117c44aac1c866bb9",
+              "599c7945601a182cd2629f8d",
+              "5c8a11324895d9cbc6121c34",
+              "5c2348ceda562935fc1d56eb",
+              "5c04967517c44a2c7470912a",
+              "5a9cb65d17c44a376ffb83b6",
+              "53e9b5bcb7602d97041070ad",
+              "57a4e91aac44365e35c979bf",
+              "5d06e47eda562926acc43256",
+              "5736986c6e3b12023e7308a0",
+              "53e9b4b0b7602d9703fc3fed",
+              "5b67b4b917c44aac1c867dbc",
+              "573697826e3b12023e66974a",
+              "5cede10ada562983788ea933",
+              "573696f46e3b12023e5f10b0"
+            ],
+            "issue" : ""
+          },
+          "@version" : "1",
+          "@timestamp" : "2022-05-26T08:47:02.873Z"
+        }
+      },
+      {
+        "_index" : "new_dblp",
+        "_type" : "_doc",
+        "_id" : "px2N_4ABRU58nyXGTauR",
+        "_score" : 22.25957,
+        "_ignored" : [
+          "document.abstract.keyword"
+        ],
+        "_source" : {
+          "document" : {
+            "title" : "DCG-Net: Dynamic Capsule Graph Convolutional Network for Point Clouds",
+            "doi" : "10.1109/ACCESS.2020.3031812",
+            "authors" : [
+              {
+                "orgs" : [
+                  "Geomatics Department, Centre Tecnològic de Telecomunicacions de Catalunya (CTTC), Barcelona, Spain"
+                ],
+                "name" : "Dena Bazazian",
+                "org" : "Geomatics Department, Centre Tecnològic de Telecomunicacions de Catalunya (CTTC), Barcelona, Spain",
+                "orgid" : "5f71b5121c455f439fe4e963"
+              },
+              {
+                "orgs" : [
+                  "Computer Science Department, Universitat Autònoma de Barcelona (UAB), Barcelona, Spain"
+                ],
+                "name" : "Dhananjay Nahata",
+                "org" : "Computer Science Department, Universitat Autònoma de Barcelona (UAB), Barcelona, Spain",
+                "orgid" : "5f71b2871c455f439fe3c804"
+              }
+            ],
+            "volume" : "8",
+            "abstract" : "This article introduces DCG-Net (Dynamic Capsule Graph Network) to analyze point clouds for the tasks of classification and segmentation. DCG-Net aggregates point cloud features to build and update the graphs based on the dynamic routing mechanism of capsule networks at each layer of a convolutional network. The first layer of DGC-Net exploits the geometrical attributes of the point cloud to build a graph by neighborhood aggregation while the deeper layers of the network dynamically update the graph based on the feature space of convolutions. We conduct extensive experiments on public datasets, ModelNet40, ShapeNet-Part. Our experimental results demonstrate that DCG-Net achieves state-of-the-art performance on public datasets, 93.4% accuracy on ModelNet40, and 85.4% instance mIoU (mean Intersection over Union) on ShapeNet-Part.",
+            "venue" : {
+              "name" : "IEEE Access",
+              "t" : "J",
+              "sid" : "2485537415",
+              "raw" : "IEEE Access"
+            },
+            "page_end" : "188067",
+            "year" : 2020,
+            "_id" : "5ff68a5cd4150a363ccc9910",
+            "fos" : [
+              "Graph",
+              "Feature vector",
+              "Computer science",
+              "Segmentation",
+              "Convolution",
+              "Algorithm",
+              "Exploit",
+              "Artificial intelligence",
+              "Solid modeling",
+              "Deep learning",
+              "Point cloud"
+            ],
+            "page_start" : "188056",
+            "url" : [
+              "https://dblp.uni-trier.de/db/journals/access/access8.html#BazazianN20"
+            ],
+            "references" : [
+              "5b3d98cc17c44a510f801d4f",
+              "5a4aef9e17c44a2190f7a2a2",
+              "5a9cb65d17c44a376ffb8377",
+              "5da2f8ab3a55ac3402d8c4a1",
+              "58d82fced649053542fd7243",
+              "5dd905b3df1a9c0c4157ebf3",
+              "53e99822b7602d97020455c1",
+              "573697db6e3b12023e6b8f4e",
+              "5b076eb4da5629516ce72e79",
+              "5cede0f9da562983788d8362",
+              "5c5c516af56def9798449908",
+              "5e5e183a93d709897cde5cf3",
+              "5550401245ce0a409eb3205c",
+              "5d70df2047c8f76646cc5a73",
+              "573697826e3b12023e66974a",
+              "5ecdf41f9e795ebde7dde77e",
+              "5e6cacba91e011436e691eb5",
+              "573696116e3b12023e52439d",
+              "5aed14d117c44a4438158999",
+              "5c04967517c44a2c74708caa",
+              "5e5e190693d709897ce4728b",
+              "5e09caba3a55ac662f721b3e",
+              "599c7945601a182cd2629f8d",
+              "5c2348ceda562935fc1d56eb",
+              "5550415745ce0a409eb3a739",
+              "5a260c0c17c44a4ba8a1e0d4",
+              "58437744ac44360f10834938",
+              "5d3c233f3a55acd386d4dde4",
+              "5c6d2963f56def979812da9f",
+              "5da2f8ab3a55ac3402d8c4a9",
+              "573696ce6e3b12023e5ce95a",
+              "5c2c7a9217c44a4e7cf314f0",
+              "5c8caac64895d9cbc616ba37",
+              "5aed14d617c44a44381594f2",
+              "5da2f8aa3a55ac3402d8c39f",
+              "5b8c9f4a17c44af36f8b6be1",
+              "58d82fd2d649053542fd75d8"
+            ]
+          },
+          "@version" : "1",
+          "@timestamp" : "2022-05-26T08:48:11.800Z"
+        }
+      },
+      {
+        "_index" : "new_dblp",
+        "_type" : "_doc",
+        "_id" : "hBiL_4ABRU58nyXGwijC",
+        "_score" : 21.911757,
+        "_source" : {
+          "document" : {
+            "title" : "PointAGCN - Adaptive Spectral Graph CNN for Point Cloud Feature Learning.",
+            "doi" : "10.1109/SPAC46244.2018.8965522",
+            "authors" : [
+              {
+                "name" : "Ling Chen",
+                "sid" : "Ling Chen"
+              },
+              {
+                "name" : "Gang Wei",
+                "sid" : "Gang Wei"
+              },
+              {
+                "name" : "Zhicheng Wang",
+                "_id" : "542bf55bdabfae2b4e1c11a3",
+                "sid" : "Zhicheng Wang"
+              }
+            ],
+            "venue" : {
+              "t" : "C",
+              "raw" : "SPAC",
+              "sid" : "conf/spac"
+            },
+            "page_end" : "406",
+            "year" : 2018,
+            "_id" : "5e3fd9853a55ac85116f595e",
+            "fos" : [
+              "Graph",
+              "Convolution",
+              "Computer science",
+              "Pooling",
+              "Theoretical computer science",
+              "Semantic learning",
+              "Artificial intelligence",
+              "Point cloud",
+              "Generality",
+              "Feature learning",
+              "Robotics"
+            ],
+            "page_start" : "401",
+            "url" : [
+              "https://dblp.org/rec/conf/spac/ChenWW18",
+              "https://doi.org/10.1109/SPAC46244.2018.8965522"
+            ],
+            "references" : [
+              "5c8a151b4895d9cbc613b329",
+              "5a9cb65d17c44a376ffb8377",
+              "58d82fcbd649053542fd67c0",
+              "58d82fced649053542fd7243",
+              "599c7945601a182cd2629f8d",
+              "58d82fd2d649053542fd7a26",
+              "57a4e91aac44365e35c979bf",
+              "599c7960601a182cd2636137",
+              "58d83051d649053542fe9c38",
+              "5736986c6e3b12023e7308a0",
+              "53e9a841b7602d970318da4e",
+              "573697ee6e3b12023e6c8d81",
+              "5c84794a4895d9cbc6123c6f",
+              "573697826e3b12023e66974a",
+              "5a73cb6317c44a0b30358072",
+              "5a260c8617c44a4ba8a31d31",
+              "599c7f07601a182cd28e510e",
+              "573696f46e3b12023e5f10b0"
+            ]
+          },
+          "@version" : "1",
+          "@timestamp" : "2022-05-26T08:46:31.026Z"
+        }
+      }
+    ]
+  }
+}

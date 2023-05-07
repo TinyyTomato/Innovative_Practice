@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>数据疫情</title>
+    <link rel="stylesheet" href="css/index.css" />
+  </head>
+  <body>
+    <!-- 头部的盒子 -->
+    <header>
+      <h1>全球疫情</h1>
+      <div class="showTime"></div>
+      <script>
+        var t = null;
+        t = setTimeout(time, 1000); //開始运行
+        function time() {
+          clearTimeout(t); //清除定时器
+          dt = new Date();
+          var y = dt.getFullYear();
+          var mt = dt.getMonth() + 1;
+          var day = dt.getDate();
+          var h = dt.getHours(); //获取时
+          var m = dt.getMinutes(); //获取分
+          var s = dt.getSeconds(); //获取秒
+          document.querySelector(".showTime").innerHTML =
+            "当前时间：" +
+            y +
+            "年" +
+            mt +
+            "月" +
+            day +
+            "日-" +
+            h +
+            "时" +
+            m +
+            "分" +
+            s +
+            "秒";
+          t = setTimeout(time, 1000); //设定定时器，循环运行
+        }
+      </script>
+      &
+    </header>
+
+    <!-- 页面主体部分 -->
+    <section class="mainbox">
+      <div class="column">
+        <div class="panel bar">
+          <h2>主要国家新增人数</h2>
+          <div class="chart">图表</div>
+          <div class="panel-footer"></div>
+        </div>
+        <div class="panel line">
+          <h2>近七天国家治疗人数</h2>
+          <div class="chart">图表</div>
+          <div class="panel-footer"></div>
+        </div>
+        <div class="panel pie">
+          <h2>主要国家累计人数</h2>
+          <div class="chart">图表</div>
+          <div class="panel-footer"></div>
+        </div>
+      </div>
+      <div class="column">
+        <div class="no">
+          <div class="no-hd">
+            <ul>
+              <li>126029655</li>
+              <li>25336956</li>
+            </ul>
+          </div>
+          <div class="no-bd">
+            <ul>
+              <li>全球累计确诊</li>
+              <li>全球现有确诊</li>
+            </ul>
+          </div>
+        </div>
+        <div class="map">
+          <div class="chart"></div>
+          <div class="map1"></div>
+          <div class="map2"></div>
+          <div class="map3"></div>
+        </div>
+      </div>
+      <div class="column">
+        <div class="panel bar2">
+          <h2>主要国家死亡人数</h2>
+          <div class="chart">图表</div>
+          <div class="panel-footer"></div>
+        </div>
+        <div class="panel line2">
+          <h2>主要国家现有确诊</h2>
+          <div class="chart">图表</div>
+          <div class="panel-footer"></div>
+        </div>
+        <div class="panel pie2">
+          <h2>主要国家现有确诊</h2>
+          <div class="chart">图表</div>
+          <div class="panel-footer"></div>
+        </div>
+      </div>
+    </section>
+    <script src="js/flexible.js"></script>
+    <script src="js/echarts.min.js"></script>
+    <!-- 使用中国地图必须先引入这个china文件 -->
+    <script src="js/china.js"></script>
+    <script src="js/world.js"></script>
+    <script src="js/index.js"></script>
+    <script src="js/Now.js"></script>
+    <script src="js/Cure.js"></script>
+    <script src="js/Die.js"></script>
+    <script src="js/Noow.js"></script>
+    <script src="js/other.js"></script>
+  </body>
+</html>
